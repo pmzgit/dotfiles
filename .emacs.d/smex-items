@@ -1,0 +1,32 @@
+
+;; ----- smex-history -----
+(
+ dired
+ neotree
+ describe-coding-system
+ eval-buffer
+ smartparens-mode
+ shell
+ list-packages
+)
+
+;; ----- smex-data -----
+(
+ (dired . 33)
+ (shell . 6)
+ (helm-M-x . 1)
+ (eval-buffer . 11)
+ (list-packages . 6)
+ (sp-cheat-sheet . 3)
+ (project-explorer-helm . 1)
+ (project-explorer-open . 1)
+ (package-refresh-contents . 1)
+ (ido-find-file-in-dir . 1)
+ (package-list-packages . 1)
+ (neotree . 24)
+ (customize . 1)
+ (neotree-hidden-file-toggle . 8)
+ (neotree-refresh . 4)
+ (smartparens-mode . 4)
+ (describe-coding-system . 2)
+)
