@@ -1,0 +1,8 @@
+<templateSet group="java_pmz">
+  <template name="/**" value="/** &#10; * &#10; * @author pmz &#10; * @date $date$ &#10; *&#10; */" shortcut="ENTER" description="自定义方法注释" toReformat="false" toShortenFQNames="true">
+    <variable name="date" expression="date()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

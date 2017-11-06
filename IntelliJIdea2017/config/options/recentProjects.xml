@@ -1,0 +1,575 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/everpay" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard" />
+        <option value="D:/code/wxbind" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian" />
+        <option value="D:/code/IJPay" />
+        <option value="$USER_HOME$/Desktop/work/充值/银联/手机网页支付产品技术开发包V1.1.7/Java Version SDK (通用版)/ACPSample_B2C" />
+        <option value="D:/code/spring-boot-pay" />
+        <option value="D:/code/IJPay-Demo" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow" />
+        <option value="D:/code/jfinal-weixin" />
+        <option value="D:/code/eversec-framework" />
+        <option value="D:/code/esp-demo" />
+        <option value="D:/code/ebp-demo" />
+        <option value="D:/code/parent" />
+        <option value="D:/code/test" />
+        <option value="D:/code/bm_weixin_portal" />
+        <option value="D:/code/easypoi" />
+        <option value="D:/code/system-app-v1.0" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0" />
+        <option value="D:/code/88ybg/quanmin_admin" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/communication-guardian" />
+        <option value="D:/code/alipay.trade.wap.pay-java-utf-8" />
+        <option value="D:/code/010-Source-Code/EversecBadUrl" />
+        <option value="D:/code/fmj" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/LNLT" />
+        <option value="D:/code/HarleyCorp" />
+        <option value="D:/code/iBase4J" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/test" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard-interfaces" />
+        <option value="D:/workspace/bm_service" />
+        <option value="D:/me/vdBase" />
+        <option value="D:/me/server-sdk-java-master" />
+        <option value="D:/me/vdBase-UI" />
+        <option value="D:/me/FHM Maven Webapp" />
+        <option value="D:/me/SpringMVC-Mybatis-Shiro-redis-0.2" />
+        <option value="D:/me/jfinal-weixin" />
+        <option value="D:/me/renren-security" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/Desktop/work/充值/银联/手机网页支付产品技术开发包V1.1.7/Java Version SDK (通用版)/ACPSample_B2C">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509008816919" />
+              <option name="buildTimestamp" value="1506404238573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508916183715" />
+              <option name="buildTimestamp" value="1506404233875" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509590304913" />
+              <option name="buildTimestamp" value="1506404241676" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard-interfaces">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1497940249463" />
+              <option name="buildTimestamp" value="1490393418916" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508810955313" />
+              <option name="buildTimestamp" value="1506404255176" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509616658314" />
+              <option name="buildTimestamp" value="1506404252032" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/LNLT">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1499671300975" />
+              <option name="buildTimestamp" value="1490393446774" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1504147395333" />
+              <option name="buildTimestamp" value="1495124569720" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509430476021" />
+              <option name="buildTimestamp" value="1506404279040" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/WXBind">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1505358938224" />
+              <option name="buildTimestamp" value="1495124552257" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/communication-guardian">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1503908624390" />
+              <option name="buildTimestamp" value="1495124542123" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/everpay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509615853469" />
+              <option name="buildTimestamp" value="1506404252032" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1498182378254" />
+              <option name="buildTimestamp" value="1490393440448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/wxbind">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506393885549" />
+              <option name="buildTimestamp" value="1505156599502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/010-Source-Code/EversecBadUrl">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1501655915236" />
+              <option name="buildTimestamp" value="1495124537535" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/88ybg/quanmin_admin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1504057984924" />
+              <option name="buildTimestamp" value="1495124520413" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/EverPay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1505724102249" />
+              <option name="buildTimestamp" value="1495124540058" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/HarleyCorp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1498378881185" />
+              <option name="buildTimestamp" value="1490393452933" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/IJPay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509012446913" />
+              <option name="buildTimestamp" value="1506404238573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/IJPay-Demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508988465319" />
+              <option name="buildTimestamp" value="1506404238573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/alipay.trade.wap.pay-java-utf-8">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1503310522344" />
+              <option name="buildTimestamp" value="1495124570542" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/bm_weixin_portal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1505392171457" />
+              <option name="buildTimestamp" value="1495124526917" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/easypoi">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1505359048931" />
+              <option name="buildTimestamp" value="1495124552257" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/ebp-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507621810699" />
+              <option name="buildTimestamp" value="1506404251385" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/esp-demo">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507621865609" />
+              <option name="buildTimestamp" value="1506404251385" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/everpay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506482163283" />
+              <option name="buildTimestamp" value="1505156592033" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/eversec-framework">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507627748010" />
+              <option name="buildTimestamp" value="1506404251385" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/fmj">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1499911220090" />
+              <option name="buildTimestamp" value="1495124572827" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/iBase4J">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15188.11" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1498201901125" />
+              <option name="buildTimestamp" value="1490393440448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/jfinal-weixin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508764913113" />
+              <option name="buildTimestamp" value="1506404249611" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506426646976" />
+              <option name="buildTimestamp" value="1505156599502" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/spring-boot-pay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1508989014381" />
+              <option name="buildTimestamp" value="1506404238573" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/system-app-v1.0">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.15529.5" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
+              <option name="projectOpenTimestamp" value="1505283150421" />
+              <option name="buildTimestamp" value="1495124529202" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4155.36" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1506325884788" />
+              <option name="buildTimestamp" value="1505156610936" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/wxbind">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-172.4343.14" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509505729822" />
+              <option name="buildTimestamp" value="1506404279486" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/FHM Maven Webapp">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493345899835" />
+              <option name="buildTimestamp" value="1485857139276" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/SpringMVC-Mybatis-Shiro-redis-0.2">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493344018337" />
+              <option name="buildTimestamp" value="1485857139276" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/iBase4J">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493865763911" />
+              <option name="buildTimestamp" value="1485857151639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/jfinal-weixin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493343931249" />
+              <option name="buildTimestamp" value="1485857139276" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/parent">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493861222177" />
+              <option name="buildTimestamp" value="1485857151639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/renren-security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493343737511" />
+              <option name="buildTimestamp" value="1485857139276" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/server-sdk-java-master">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493948823606" />
+              <option name="buildTimestamp" value="1485857150111" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/vdBase">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1494310528106" />
+              <option name="buildTimestamp" value="1485857145660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/me/vdBase-UI">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1493895045900" />
+              <option name="buildTimestamp" value="1485857151639" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/soft/workspace/bc_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1489631914953" />
+              <option name="buildTimestamp" value="1485857143501" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/workspace/bm_service">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1494310528808" />
+              <option name="buildTimestamp" value="1485857145660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/workspace/bm_weixin_portal">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-163.12024.16" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="D:/soft/install/idea/bin" />
+              <option name="projectOpenTimestamp" value="1494319525797" />
+              <option name="buildTimestamp" value="1485857145660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastProjectLocation" value="D:/code" />
+  </component>
+</application>

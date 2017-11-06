@@ -1,0 +1,32 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="$SelectAll" count="1" />
+      <entry action="CloseProject" count="1" />
+      <entry action="Diff.ShowDiff" count="2" />
+      <entry action="EditorBackSpace" count="75" />
+      <entry action="EditorChooseLookupItem" count="16" />
+      <entry action="EditorChooseLookupItemReplace" count="2" />
+      <entry action="EditorCopy" count="1" />
+      <entry action="EditorDelete" count="18" />
+      <entry action="EditorDown" count="5" />
+      <entry action="EditorEnter" count="24" />
+      <entry action="EditorLeft" count="25" />
+      <entry action="EditorPaste" count="20" />
+      <entry action="EditorRight" count="24" />
+      <entry action="EditorUp" count="5" />
+      <entry action="EmmetUpdateTag" count="1" />
+      <entry action="GotoAction" count="13" />
+      <entry action="GotoClass" count="1" />
+      <entry action="GotoDeclaration" count="3" />
+      <entry action="GotoFile" count="2" />
+      <entry action="HideActiveWindow" count="1" />
+      <entry action="OpenFile" count="2" />
+      <entry action="Replace" count="1" />
+      <entry action="SaveAll" count="3" />
+      <entry action="ShowSettings" count="7" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+    </counts>
+  </component>
+</application>

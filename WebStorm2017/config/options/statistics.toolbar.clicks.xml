@@ -1,0 +1,8 @@
+<application>
+  <component name="ToolbarClicksCollector">
+    <counts>
+      <entry action="ShowSettings@MainToolbar" count="7" />
+      <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="1" />
+    </counts>
+  </component>
+</application>

@@ -1,0 +1,16 @@
+<application>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="CreateFile.CreateFileAction" count="1" />
+      <entry feature="OpenInBrowser.Chrome" count="1" />
+      <entry feature="StripeButton[Version_Control].shown" count="2" />
+      <entry feature="ide.settings.ESLint" count="2" />
+      <entry feature="ide.settings.Font" count="3" />
+      <entry feature="ide.settings.Plugins" count="1" />
+      <entry feature="ideaapp.started" count="7" />
+      <entry feature="json.schema.builtin.completion" count="11" />
+      <entry feature="terminal.win" count="5" />
+      <entry feature="welcome.screen.WelcomeScreen.OpenDirectoryProject" count="3" />
+    </counts>
+  </component>
+</application>

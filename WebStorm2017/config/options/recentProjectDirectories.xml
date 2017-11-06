@@ -1,0 +1,65 @@
+<application>
+  <component name="RecentDirectoryProjectsManager">
+    <option name="recentPaths">
+      <list>
+        <option value="D:/code/node-test" />
+        <option value="D:/code/iview-admin" />
+        <option value="D:/code/react" />
+      </list>
+    </option>
+    <option name="openPaths">
+      <list>
+        <option value="D:/code/node-test" />
+      </list>
+    </option>
+    <option name="lastPath" value="D:/code/node-test" />
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/AppData/Local/Temp/package.json">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4155.35" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1507702042388" />
+              <option name="buildTimestamp" value="1505137964959" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/iview-admin">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4343.25" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509454223026" />
+              <option name="buildTimestamp" value="1508482458584" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/node-test">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4343.25" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509592285293" />
+              <option name="buildTimestamp" value="1508482461660" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/react">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="WS-172.4343.25" />
+              <option name="productionCode" value="WS" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1509256540226" />
+              <option name="buildTimestamp" value="1508482475936" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

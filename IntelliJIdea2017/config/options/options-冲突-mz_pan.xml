@@ -1,0 +1,40 @@
+<application>
+  <component name="PropertiesComponent">
+    <property name="evlsprt3.163" value="14" />
+    <property name="installed.kotlin.plugin.version" value="1.0.5-release-IJ2016.3-1" />
+    <property name="android-component-compatibility-check" value="1493685847943" />
+    <property name="file.chooser.recent.files" value="E:/software/install/work/apache-tomcat-7.0.671&#10;E:/software/install/work/apache-tomcat-7.0.67&#10;F:/projects/vdBase/vdBase-Web/vdbase-Web.iml&#10;F:/projects/vdBase/vdBase-SYS-Service/pom.xml&#10;F:/projects/vdBase/vdBase-SYS-API/pom.xml&#10;F:/projects/vdBase/vdBase-Common/pom.xml&#10;F:/projects/vdBase/pom.xml&#10;E:/software/install/work/apache-maven-3.3.9&#10;E:/software/install/work/java/jdk&#10;E:/repository&#10;E:/software/install/work/Git/cmd/git.exe&#10;F:/projects/parent&#10;D:/me/server-sdk-java-master&#10;D:/soft/apache-tomcat-7.0.691&#10;D:/me/vdBase/vdBase-Web/target/vdbase-Web&#10;D:/me/vdBase/vdBase-SYS-Service/target/vdbase-SYS-Service&#10;D:/soft/install/apache-maven-3.3.9&#10;D:/me/iBase4J/pom.xml&#10;D:/me/SpringMVC-Mybatis-Shiro-redis-0.2/pom.xml&#10;D:/me/renren-security/pom.xml&#10;D:/me/FHM Maven Webapp/pom.xml&#10;D:/me/vdBase&#10;D:/me/vdBase/pom.xml&#10;D:/me/vdBase/vdBase-SYS-API/.settings&#10;D:/me/vdBase/vdBase-Common/.settings&#10;D:/me/vdBase/.settings&#10;D:/me/vdBase/.idea&#10;D:/me/vdBase/target/classes&#10;D:/me/vdBase-UI&#10;D:/me/vdBase/vdBase-Web" />
+    <property name="last.imported.location" value="F:/projects/vdBase/vdBase-Web/vdbase-Web.iml" />
+    <property name="eclipse.project.dir" value="D:\soft\workspace\bc_service" />
+    <property name="toolwindow.stripes.buttons.info.shown" value="true" />
+    <property name="DeploymentNotificationsComponent.WarnDisplayed.Java7&amp;Windows7FTPIssue" value="false" />
+    <property name="lastTip" value="100" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="selected.color.option.type" value="VCS_ANNOTATIONS_COLOR_5" />
+    <property name="ColorChooser.RecentColors" value="199-237-204-255,,,0-0-0-255" />
+    <property name="COMMITTED_CHANGES_FILTER_HISTORY" value="" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="CommittedChanges.SplitterProportions.0" value="396" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="PLUGIN_FILTER" value="vim&#10;jr&#10;jre&#10;vi&#10;jrebel" />
+    <property name="ideavim.statistics.timestamp" value="1494151340710" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.80686694" />
+    <property name="KEYMAP" value="doc com&#10;doc&#10;M&#10;block&#10;extend" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="FrameworksFinderRecursivePanel[0]" value="0.13114753" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="project.wizard.group" value="JAVA_MODULE" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="FrameworksFinderRecursivePanel[1]" value="0.1509434" />
+    <property name="FrameworksFinderRecursivePanel[2]" value="0.17793594" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="plugins.preselection.path" value="D:/me/synch/tools/win/idea" />
+    <property name="com.intellij.diagnostic.IdeErrorsDialogactiveTab" value="-1" />
+    <property name="search.everywhere.max.popup.width" value="620" />
+  </component>
+</application>

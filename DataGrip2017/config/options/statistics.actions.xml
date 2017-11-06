@@ -1,0 +1,16 @@
+<application>
+  <component name="ActionsCollector">
+    <counts>
+      <entry action="Console.TableResult.Reload" count="1" />
+      <entry action="DatabaseView.AddActionGroupPopup" count="2" />
+      <entry action="DatabaseView.PropertiesAction" count="5" />
+      <entry action="DatabaseView.SynchronizeAction" count="2" />
+      <entry action="EditorBackSpace" count="13" />
+      <entry action="EditorCopy" count="4" />
+      <entry action="EditorPaste" count="7" />
+      <entry action="OpenFile" count="1" />
+      <entry action="ViewToolBar" count="1" />
+      <entry action="ViewToolButtons" count="1" />
+    </counts>
+  </component>
+</application>

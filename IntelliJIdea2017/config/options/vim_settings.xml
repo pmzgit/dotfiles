@@ -1,0 +1,494 @@
+<application>
+  <component name="VimSettings">
+    <state version="4" enabled="true" />
+    <globalmarks />
+    <filemarks>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/entity/Media.java" timestamp="1506667502058">
+        <mark key="[" line="17" column="24" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/JpushUtil.java" timestamp="1506500542187">
+        <mark key="[" line="156" column="64" />
+      </file>
+      <file name="D:/code/wxbind/src/main/webapp/WEB-INF/views/lttxws/js/utils.js" timestamp="1506688060672">
+        <mark key="[" line="65" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/common/data/SpringDataPageable.java" timestamp="1508406208831" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/webapp/WEB-INF/views/admin/orderlist.html" timestamp="1508407550705">
+        <mark key="[" line="40" column="32" />
+        <mark key="]" line="40" column="32" />
+        <mark key="." line="40" column="32" />
+        <mark key="^" line="47" column="51" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/common/HttpUtils.java" timestamp="1507618105627">
+        <mark key="[" line="27" column="56" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/controller/PayController.java" timestamp="1508400046500">
+        <mark key="[" line="262" column="12" />
+        <mark key="]" line="262" column="12" />
+        <mark key="." line="262" column="12" />
+      </file>
+      <file name="/a.dummy" timestamp="1508398869937">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="9" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/OrderMapper.java" timestamp="1506588474374">
+        <mark key="[" line="56" column="47" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/service/CommodityService.java" timestamp="1508317420343">
+        <mark key="[" line="273" column="44" />
+        <mark key="]" line="273" column="44" />
+        <mark key="." line="273" column="44" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/service/impl/AppRecommendServiceImpl.java" timestamp="1508314073167">
+        <mark key="[" line="108" column="15" />
+        <mark key="]" line="108" column="15" />
+        <mark key="." line="108" column="15" />
+      </file>
+      <file name="D:/code/spring-boot-pay/src/main/java/com/itstyle/modules/alipay/controller/AliPayController.java" timestamp="1507533855721">
+        <mark key="[" line="94" column="9" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/entity/FunctionUsedUpload.java" timestamp="1506596315064">
+        <mark key="[" line="66" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/pom.xml" timestamp="1507535702535">
+        <mark key="[" line="22" column="46" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/CommonRepository.java" timestamp="1508398855926">
+        <mark key="[" line="5" column="7" />
+        <mark key="]" line="5" column="7" />
+        <mark key="." line="5" column="7" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.7.RELEASE/spring-data-commons-1.13.7.RELEASE-sources.jar!/org/springframework/data/domain/Chunk.java" timestamp="1508406046560" />
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.7.RELEASE/spring-data-mongodb-1.10.7.RELEASE-sources.jar!/org/springframework/data/mongodb/core/query/Criteria.java" timestamp="1508383668113" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/weixin/pojo/WXUser.java" timestamp="1508403021404" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/model/log/PayNotifyLog.java" timestamp="1508322129132">
+        <mark key="[" line="20" column="23" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/concurrency/Sync4.java" timestamp="1506250798052">
+        <mark key="[" line="15" column="1" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/concurrency/lock/Lock1.java" timestamp="1506347785123">
+        <mark key="[" line="60" column="1" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/model/log/OrderLog.java" timestamp="1508319216925">
+        <mark key="[" line="27" column="22" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/common/message/Message.java" timestamp="1506758251407">
+        <mark key="[" line="12" column="18" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/core/OrderCore.java" timestamp="1508407866168">
+        <mark key="[" line="210" column="26" />
+        <mark key="]" line="210" column="26" />
+        <mark key="." line="210" column="26" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/PageDao.java" timestamp="1508406617464">
+        <mark key="[" line="25" column="40" />
+        <mark key="]" line="25" column="40" />
+        <mark key="^" line="16" column="76" />
+        <mark key="." line="25" column="40" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.7.RELEASE/spring-data-commons-1.13.7.RELEASE-sources.jar!/org/springframework/data/repository/PagingAndSortingRepository.java" timestamp="1508396851733" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/entity/Order.java" timestamp="1508315907818">
+        <mark key="[" line="61" column="64" />
+        <mark key="]" line="61" column="64" />
+        <mark key="." line="61" column="64" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/model/enums/OrderChannel.java" timestamp="1508319556620">
+        <mark key="[" line="27" column="8" />
+        <mark key="]" line="27" column="8" />
+        <mark key="." line="27" column="8" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/service/impl/AppSecureServiceImpl.java" timestamp="1508400898671" />
+      <file name="$MAVEN_REPOSITORY$/com/github/pagehelper/pagehelper/5.0.0/pagehelper-5.0.0-sources.jar!/com/github/pagehelper/PageInfo.java" timestamp="1508384780276" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/controller/ApiPayController.java" timestamp="1508403365101">
+        <mark key="[" line="126" column="72" />
+        <mark key="]" line="201" column="8" />
+        <mark key="." line="201" column="8" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.1.RELEASE/spring-data-commons-1.13.1.RELEASE-sources.jar!/org/springframework/data/domain/PageImpl.java" timestamp="1508397058286" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/controller/AdminController.java" timestamp="1508406780222">
+        <mark key="[" line="40" column="8" />
+        <mark key="]" line="40" column="8" />
+        <mark key="." line="40" column="8" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/controller/CloudController.java" timestamp="1506566055970">
+        <mark key="[" line="38" column="64" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/dao/TerminalInitDao.java" timestamp="1506414445973">
+        <mark key="[" line="7" column="51" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/model/OrderVo.java" timestamp="1508322097595">
+        <mark key="[" line="50" column="40" />
+        <mark key="]" line="50" column="40" />
+        <mark key="." line="50" column="40" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/concurrency/IsAlive.java" timestamp="1506163610431">
+        <mark key="[" line="15" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/entity/Edition.java" timestamp="1508385765901" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/OrderDao.java" timestamp="1508406575390">
+        <mark key="'" line="45" column="4" />
+        <mark key="[" line="58" column="84" />
+        <mark key="]" line="25" column="4" />
+        <mark key="." line="25" column="4" />
+        <mark key="^" line="60" column="42" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/test/java/com/eversec/flow/pay/SpringTest.java" timestamp="1508407926968">
+        <mark key="[" line="18" column="26" />
+        <mark key="]" line="18" column="26" />
+        <mark key="." line="18" column="26" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/common/util/Md5Util.java" timestamp="1506692036993">
+        <mark key="[" line="63" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/resources/application.yml" timestamp="1508313551088">
+        <mark key="[" line="6" column="12" />
+        <mark key="]" line="6" column="12" />
+        <mark key="." line="6" column="12" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/model/log/AlipayNotifyLog.java" timestamp="1508299121606">
+        <mark key="[" line="12" column="13" />
+        <mark key="]" line="12" column="13" />
+        <mark key="." line="12" column="13" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/service/AppRecommendService.java" timestamp="1508407663265">
+        <mark key="[" line="16" column="9" />
+        <mark key="]" line="16" column="9" />
+        <mark key="." line="16" column="9" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/concurrency/Run16_yield.java" timestamp="1506254440947">
+        <mark key="[" line="28" column="27" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/dao/impl/AppRecommendDaoImpl.java" timestamp="1508406259359">
+        <mark key="[" line="46" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/controller/WebController.java" timestamp="1508407700720">
+        <mark key="[" line="102" column="22" />
+        <mark key="]" line="102" column="22" />
+        <mark key="." line="102" column="22" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/service/AppSecureService.java" timestamp="1506509356201">
+        <mark key="[" line="8" column="81" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/model/log/RefundLog.java" timestamp="1508318196784">
+        <mark key="[" line="22" column="22" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1508401649550">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="2" />
+        <mark key="." line="0" column="2" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/weixin/api/WXOAuthController.java" timestamp="1508403836803">
+        <mark key="[" line="117" column="65" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/common/util/Utils.java" timestamp="1506502824030">
+        <mark key="[" line="81" column="0" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/concurrency/Sync2.java" timestamp="1506249066560">
+        <mark key="[" line="6" column="20" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/service/OrderService.java" timestamp="1508407689096">
+        <mark key="[" line="128" column="12" />
+        <mark key="]" line="128" column="12" />
+        <mark key="." line="128" column="12" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/dao/AppRecommendDao.java" timestamp="1506498719784">
+        <mark key="[" line="8" column="51" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/model/CommodityNotify.java" timestamp="1508306258126">
+        <mark key="[" line="60" column="4" />
+        <mark key="]" line="60" column="4" />
+        <mark key="." line="60" column="4" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/dao/impl/LogDaoImpl.java" timestamp="1508317601486">
+        <mark key="[" line="42" column="36" />
+        <mark key="]" line="42" column="36" />
+        <mark key="." line="42" column="36" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-mongodb/1.10.7.RELEASE/spring-data-mongodb-1.10.7.RELEASE-sources.jar!/org/springframework/data/mongodb/repository/support/SimpleMongoRepository.java" timestamp="1508395922950" />
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/resources/application-dev1.yaml" timestamp="1508314548208">
+        <mark key="[" line="92" column="0" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/concurrency/Interrupt1.java" timestamp="1506164754016">
+        <mark key="[" line="18" column="0" />
+      </file>
+      <file name="/fragment.java" timestamp="1508407782035">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/model/mongo/Order.java" timestamp="1508407348328">
+        <mark key="[" line="54" column="18" />
+        <mark key="]" line="54" column="18" />
+        <mark key="." line="54" column="18" />
+      </file>
+      <file name="$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/1.13.7.RELEASE/spring-data-commons-1.13.7.RELEASE-sources.jar!/org/springframework/data/domain/PageImpl.java" timestamp="1508406026712" />
+    </filemarks>
+    <jumps>
+      <jump line="70" column="36" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
+      <jump line="14" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
+      <jump line="38" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
+      <jump line="65" column="33" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
+      <jump line="66" column="35" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
+      <jump line="67" column="29" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
+      <jump line="54" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="126" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="47" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="79" column="117" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="0" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="3" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="4" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="5" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="6" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="7" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="155" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
+      <jump line="0" column="0" filename="/a.dummy" />
+      <jump line="31" column="39" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="32" column="47" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="33" column="50" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="39" column="47" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="72" column="16" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="74" column="30" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="84" column="24" filename="D:/code/iBase4J/pom.xml" />
+      <jump line="28" column="24" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/DDAlarmUtil.java" />
+      <jump line="17" column="3" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
+      <jump line="37" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
+      <jump line="18" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
+      <jump line="40" column="17" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
+      <jump line="32" column="22" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/BJPhoneJob.java" />
+      <jump line="107" column="116" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/BJPhoneJob.java" />
+      <jump line="159" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0/src/test/java/CloudV2Test.java" />
+      <jump line="156" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0/src/test/java/CloudV2Test.java" />
+      <jump line="259" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="5" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="392" column="8" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="399" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="0" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="45" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/AndroidVirusServiceImpl.java" />
+      <jump line="81" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/AndroidVirusServiceImpl.java" />
+      <jump line="241" column="60" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="242" column="36" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="244" column="66" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="245" column="29" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="60" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="61" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="62" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="114" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="115" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="119" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="32" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/job/JsSpecialUserCal.java" />
+      <jump line="144" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="175" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/controller/WebController.java" />
+      <jump line="220" column="8" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/controller/WebController.java" />
+      <jump line="165" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
+      <jump line="280" column="66" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/CloudServiceImpl.java" />
+      <jump line="1655" column="63" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/HeartToHeartServiceImpl.java" />
+      <jump line="46" column="29" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/IntegralAddJob.java" />
+      <jump line="78" column="78" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/PushTalk.java" />
+      <jump line="1867" column="30" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/HeartToHeartServiceImpl.java" />
+      <jump line="34" column="46" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/WeiXinOAuthController.java" />
+      <jump line="111" column="48" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/pay/core/OrderCore.java" />
+      <jump line="134" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/pay/core/OrderCore.java" />
+      <jump line="177" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/pom.xml" />
+      <jump line="169" column="40" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/util/AdvancedUtil.java" />
+      <jump line="170" column="45" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/util/AdvancedUtil.java" />
+      <jump line="33" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/index.html" />
+      <jump line="54" column="34" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/index.html" />
+      <jump line="23" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/resources/config.properties" />
+      <jump line="36" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/lttxws/feedback.html" />
+      <jump line="116" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="118" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="59" column="23" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="123" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="121" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="78" column="13" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="94" column="47" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
+      <jump line="317" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/controller/WebController.java" />
+      <jump line="86" column="31" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/pay/core/WeiXinPay.java" />
+      <jump line="139" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/controller/WebController.java" />
+      <jump line="61" column="24" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/list.html" />
+      <jump line="143" column="38" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0/src/main/java/com/eversec/call_cloud/util/job/ctpJob/PoisonPushCountJob.java" />
+      <jump line="114" column="50" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0/src/main/java/com/eversec/call_cloud/util/CronJob.java" />
+      <jump line="23" column="55" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/test/java/com/eversec/cloud/LangTest.java" />
+      <jump line="17" column="1" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/test/java/com/eversec/cloud/LangTest.java" />
+      <jump line="45" column="53" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/model/ProductVo.java" />
+      <jump line="53" column="39" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/LTTXWSController.java" />
+      <jump line="39" column="88" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/lttxws/map.html" />
+      <jump line="572" column="38" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/CloudServiceImpl.java" />
+      <jump line="134" column="61" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/lttxws/details.html" />
+      <jump line="171" column="48" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/lttxws/details.html" />
+      <jump line="243" column="34" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/dao/impl/IntegrateShopDaoImpl.java" />
+      <jump line="443" column="49" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/dao/impl/IntegrateShopDaoImpl.java" />
+      <jump line="762" column="55" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/dao/impl/IntegrateShopDaoImpl.java" />
+      <jump line="50" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/service/impl/HeartLoginServiceImpl.java" />
+      <jump line="21" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/service/impl/HeartLoginServiceImpl.java" />
+      <jump line="41" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/dao/impl/AppNetControlService.java" />
+      <jump line="40" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/OrderDao.java" />
+      <jump line="39" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/OrderDao.java" />
+    </jumps>
+    <registers>
+      <register name="&quot;" type="4">
+        <text>AdminApp</text>
+      </register>
+      <register name="-" type="4">
+        <text>AdminApp</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxlbnN1cmVcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHZwbklwOwo=</text>
+      </register>
+      <register name="1" type="4">
+        <text encoding="base64">cHVibGljIE9yZGVyRGFvKE1vbmdvRW50aXR5SW5mb3JtYXRpb248T3JkZXIsIFN0cmluZz4gbWV0YWRhdGEsIE1vbmdvT3BlcmF0aW9ucyBtb25nb09wZXJhdGlvbnMpIHsKICAgICAgICBzdXBlcihtZXRhZGF0YSwgbW9uZ29PcGVyYXRpb25zKTsKICAgIH0=</text>
+      </register>
+      <register name="2" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIENsYXNzPFQ+IGdldEVudGl0eUNsYXNzKCl7CiAgICAgICAgcmV0dXJuIDsKICAgIH0=</text>
+      </register>
+      <register name="3" type="4">
+        <text encoding="base64">cHJvdGVjdGVkIENsYXNzPFQ+IGdldEVudGl0eUNsYXNzKCl7CiAgICAgICAgcmV0dXJuIGVudGl0eUluZm9ybWF0aW9uLmdldEphdmFUeXBlKCk7CiAgICB9</text>
+      </register>
+      <register name="4" type="4">
+        <text encoding="base64">IHB1YmxpYyBQYWdlRGFvKE1vbmdvRW50aXR5SW5mb3JtYXRpb248VCwgSUQ+IG1ldGFkYXRhLCBNb25nb09wZXJhdGlvbnMgbW9uZ29PcGVyYXRpb25zKSB7CiAgICAgICAgc3VwZXIobWV0YWRhdGEsIG1vbmdvT3BlcmF0aW9ucyk7CgogICAgICAgIHRoaXMubW9uZ29UZW1wbGF0ZT1tb25nb09wZXJhdGlvbnM7CiAgICAgICAgdGhpcy5lbnRpdHlJbmZvcm1hdGlvbiA9IG1ldGFkYXRhOwogICAgfQ==</text>
+      </register>
+      <register name="5" type="4">
+        <text>if(i==1){
+                    flag=true;
+                }</text>
+      </register>
+      <register name="6" type="4">
+        <text>if(i==1){
+                    flag=true;
+                }</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICBvcmRlci5zZXRUb3RhbEFtb3VudCgpOwo=</text>
+      </register>
+      <register name="8" type="4">
+        <text>public BigDecimal getTotalAmount() {
+        return totalAmount;
+    }
+
+    public void setTotalAmount(BigDecimal totalAmount) {
+        this.totalAmount = totalAmount;
+    }</text>
+      </register>
+      <register name="9" type="4">
+        <text encoding="base64">aWYoaT4wKXsKICAgICAgICAgICAgICAgIHJldHVybiB0cnVlOwogICAgICAgICAgICB9Cg==</text>
+      </register>
+      <register name=":" type="4">
+        <text>reg</text>
+      </register>
+    </registers>
+    <search>
+      <last-search encoding="base64">XDxlbnN1cmVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxlbnN1cmVcPg==</last-pattern>
+      <last-replace>ColorEnum</last-replace>
+      <last-substitute>EmumTest</last-substitute>
+      <last-dir>1</last-dir>
+      <show-last>false</show-last>
+    </search>
+    <history>
+      <history-search>
+        <entry encoding="base64">XDxFbnVtVGVzdFw+</entry>
+        <entry encoding="base64">XDxGXD4=</entry>
+        <entry encoding="base64">XDxhZG1pblw+</entry>
+        <entry encoding="base64">XDxjaGFydDFcPg==</entry>
+        <entry encoding="base64">XDxvYXV0aDJcPg==</entry>
+        <entry encoding="base64">XDxoZWFydFw+</entry>
+        <entry>@</entry>
+        <entry>weChatSubscription</entry>
+        <entry encoding="base64">XDxzcHJpbmdcPg==</entry>
+        <entry encoding="base64">XDxyZXN1bHRKc29uXD4=</entry>
+        <entry encoding="base64">XDxnZXRKU09OT2JqZWN0XD4=</entry>
+        <entry encoding="base64">XDwpXD4=</entry>
+        <entry encoding="base64">XDxndWFyZExpc3RcPg==</entry>
+        <entry>service</entry>
+        <entry encoding="base64">XDx3ZWl4aW5BcHBcPg==</entry>
+        <entry encoding="base64">XDx3ZWl4aW5QdWJcPg==</entry>
+        <entry encoding="base64">XDx3ZWl4aW5UaXBcPg==</entry>
+        <entry encoding="base64">XDxKZG93bkFwcFw+</entry>
+        <entry encoding="base64">XDxhb3JkZXJcPg==</entry>
+        <entry encoding="base64">XDxlbnN1cmVcPg==</entry>
+      </history-search>
+      <history-cmd>
+        <entry>%s/EmumTest/ColorEnum/g</entry>
+        <entry>req</entry>
+        <entry>W</entry>
+        <entry>g\8</entry>
+        <entry>w</entry>
+        <entry>reg</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed O</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed V</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed OPEN_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed A</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed X</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed N</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed C</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed E</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed F</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed S</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed W</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed D</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Y</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed G</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed M</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed Q</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed I</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
+  </component>
+</application>

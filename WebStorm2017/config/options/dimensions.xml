@@ -1,0 +1,15 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="726" y="181" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="802" y="380" />
+    <location key="SettingsEditor.0.0.1600.900" x="281" y="93" />
+    <location key="EditFileWatcherDialog.0.0.1600.900" x="481" y="187" />
+    <location key="#ESLint.0.0.1600.900" x="561" y="204" />
+    <location key="#Browse_Repositories.0.0.1600.900" x="379" y="92" />
+    <size key="GridCell.Tab.0.left.0.0.1600.900" width="1578" height="212" />
+    <size key="GridCell.Tab.0.center.0.0.1600.900" width="1578" height="212" />
+    <size key="GridCell.Tab.0.right.0.0.1600.900" width="1578" height="212" />
+    <size key="GridCell.Tab.0.bottom.0.0.1600.900" width="1578" height="212" />
+    <size key="#ESLint.0.0.1600.900" width="491" height="506" />
+  </component>
+</application>
