@@ -1,0 +1,26 @@
+<scheme name="pmz" version="142" parent_scheme="Default">
+  <option name="FONT_SCALE" value="1.0" />
+  <metaInfo>
+    <property name="created">2017-02-06T16:04:56</property>
+    <property name="ide">idea</property>
+    <property name="ideVersion">2016.3.4.0.0</property>
+    <property name="modified">2017-11-07T17:27:57</property>
+    <property name="originalScheme">_@user_Default</property>
+  </metaInfo>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
+  </font>
+  <attributes>
+    <option name="TEXT">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="BACKGROUND" value="c7edcc" />
+      </value>
+    </option>
+  </attributes>
+</scheme>
