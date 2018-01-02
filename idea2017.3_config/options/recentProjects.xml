@@ -2,9 +2,9 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:/code/evervue" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/everpay" />
         <option value="D:/code/platform" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/everpay" />
+        <option value="D:/code/evervue" />
         <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard" />
         <option value="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription" />
         <option value="D:/code/wxbind" />
@@ -50,11 +50,9 @@
     <option name="openPaths">
       <list>
         <option value="D:/code/platform" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/everpay" />
-        <option value="D:/code/evervue" />
       </list>
     </option>
-    <option name="lastPath" value="D:/code/evervue" />
+    <option name="lastPath" value="D:/code/platform" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -185,8 +183,8 @@
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514875383193" />
-              <option name="buildTimestamp" value="1514220710174" />
+              <option name="projectOpenTimestamp" value="1514879008510" />
+              <option name="buildTimestamp" value="1514220688420" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -372,8 +370,8 @@
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514875383193" />
-              <option name="buildTimestamp" value="1514220710174" />
+              <option name="projectOpenTimestamp" value="1514879003883" />
+              <option name="buildTimestamp" value="1514220688420" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -427,8 +425,8 @@
               <option name="build" value="IU-173.4127.27" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514875383193" />
-              <option name="buildTimestamp" value="1514220710174" />
+              <option name="projectOpenTimestamp" value="1514879012237" />
+              <option name="buildTimestamp" value="1514220688420" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

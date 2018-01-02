@@ -67,14 +67,14 @@
       <entry feature="ide.settings.Translation" count="15" />
       <entry feature="ide.settings.Version_Control" count="2" />
       <entry feature="ide.settings.Vim_Emulation" count="11" />
-      <entry feature="ideaapp.started" count="304" />
+      <entry feature="ideaapp.started" count="305" />
       <entry feature="show.recent.tests.action" count="3" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.java" count="356" />
       <entry feature="spring.SpringConfigurationCheck.FileCount.xml" count="176" />
       <entry feature="spring.SpringConfigurationCheckTask.ShowFiles" count="3" />
       <entry feature="spring.SpringFacetInspection.AddFacetFix" count="22" />
       <entry feature="spring.SpringFacetInspection.ConfigureFileSetFix" count="6" />
-      <entry feature="terminal.win" count="181" />
+      <entry feature="terminal.win" count="183" />
       <entry feature="tips.of.the.day.next" count="6" />
       <entry feature="uml.ShowDiagram.DIFF.popup" count="3" />
       <entry feature="welcome.screen.WelcomeScreen.Configure" count="3" />
