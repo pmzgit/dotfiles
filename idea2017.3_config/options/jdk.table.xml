@@ -1,10 +1,10 @@
 <application>
   <component name="ProjectJdkTable">
     <jdk version="2">
-      <name value="1.7" />
+      <name value="1.8" />
       <type value="JavaSDK" />
-      <version value="java version &quot;1.7.0_80&quot;" />
-      <homePath value="D:/install/jdk/jdk" />
+      <version value="java version &quot;1.8.0_152&quot;" />
+      <homePath value="D:\install\java8\jdk" />
       <roots>
         <annotationsPath>
           <root type="composite">
@@ -13,25 +13,29 @@
         </annotationsPath>
         <classPath>
           <root type="composite">
-            <root url="jar://D:/install/jdk/jdk/jre/lib/charsets.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/deploy.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/dnsns.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/jaccess.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/localedata.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/sunec.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/sunmscapi.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/ext/zipfs.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/javaws.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/jce.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/jfr.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/jfxrt.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/jsse.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/management-agent.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/plugin.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/resources.jar!/" type="simple" />
-            <root url="jar://D:/install/jdk/jdk/jre/lib/rt.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/charsets.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/deploy.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/access-bridge-64.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/cldrdata.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/dnsns.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/jaccess.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/jfxrt.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/localedata.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/nashorn.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/sunec.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/sunjce_provider.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/sunmscapi.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/sunpkcs11.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/ext/zipfs.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/javaws.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/jce.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/jfr.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/jfxswt.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/jsse.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/management-agent.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/plugin.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/resources.jar!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/jre/lib/rt.jar!/" type="simple" />
           </root>
         </classPath>
         <javadocPath>
@@ -39,7 +43,8 @@
         </javadocPath>
         <sourcePath>
           <root type="composite">
-            <root url="jar://D:/install/jdk/jdk/src.zip!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/src.zip!/" type="simple" />
+            <root url="jar://D:/install/java8/jdk/javafx-src.zip!/" type="simple" />
           </root>
         </sourcePath>
       </roots>

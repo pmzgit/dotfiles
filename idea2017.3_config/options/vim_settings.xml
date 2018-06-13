@@ -1,255 +1,123 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/job/AllUserCountJob.java" timestamp="1511507705744">
-        <mark key="[" line="38" column="25" />
-        <mark key="]" line="38" column="25" />
-        <mark key="." line="38" column="25" />
+      <file name="D:/code/protect/EverParentProtect/pom.xml" timestamp="1528857155901">
+        <mark key="[" line="55" column="0" />
+        <mark key="]" line="55" column="0" />
+        <mark key="." line="55" column="0" />
       </file>
-      <file name="/a.dummy" timestamp="1511940986359">
+      <file name="D:/code/wxbind/src/main/java/com/eversec/weChatSubscription/weixin/api/AccessTokenApi.java" timestamp="1528770222816">
+        <mark key="[" line="100" column="107" />
+        <mark key="]" line="100" column="107" />
+        <mark key="." line="100" column="107" />
+        <mark key="^" line="100" column="90" />
+      </file>
+      <file name="/a.dummy" timestamp="1527762077447">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$MAVEN_REPOSITORY$/com/jfinal/jfinal-weixin/1.9/jfinal-weixin-1.9-sources.jar!/com/jfinal/weixin/sdk/api/TemplateData.java" timestamp="1512012252935" />
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/common/ParaMap.java" timestamp="1511940168062">
-        <mark key="[" line="23" column="23" />
-        <mark key="]" line="23" column="23" />
-        <mark key="." line="23" column="23" />
+      <file name="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/common/config/GlobalConstant.java" timestamp="1528804486207">
+        <mark key="[" line="29" column="4" />
+        <mark key="]" line="29" column="59" />
+        <mark key="^" line="11" column="63" />
+        <mark key="." line="29" column="0" />
       </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/job/PushDataCountJob.java" timestamp="1512024778544">
-        <mark key="[" line="95" column="59" />
-        <mark key="]" line="95" column="59" />
-        <mark key="." line="95" column="59" />
-        <mark key="^" line="91" column="19" />
+      <file name="D:/code/everpay/src/main/java/com/eversec/flow/api/service/OrderService.java" timestamp="1528807828708">
+        <mark key="[" line="411" column="70" />
+        <mark key="]" line="411" column="70" />
+        <mark key="." line="411" column="70" />
       </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/resources/application.yaml" timestamp="1512021796888">
+      <file name="D:/code/protect/EverParentProtect/src/main/resources/config.properties" timestamp="1528793686639">
+        <mark key="[" line="46" column="20" />
+        <mark key="]" line="46" column="20" />
+        <mark key="^" line="46" column="31" />
+        <mark key="." line="46" column="20" />
+      </file>
+      <file name="D:/code/protect/EverParentProtect/src/main/resources/dev/config.properties" timestamp="1528794616518">
+        <mark key="[" line="108" column="19" />
+        <mark key="]" line="108" column="19" />
+        <mark key="." line="108" column="19" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/jdk8/E.java" timestamp="1527683261019">
+        <mark key="[" line="18" column="61" />
+      </file>
+      <file name="D:/code/wxbind/src/main/java/com/eversec/weChatSubscription/weixin/api/TemplateMsgApi.java" timestamp="1528794139174">
+        <mark key="[" line="96" column="71" />
+        <mark key="]" line="96" column="71" />
+        <mark key="^" line="95" column="53" />
+        <mark key="." line="96" column="71" />
+      </file>
+      <file name="D:/code/wxbind/src/main/resources/logback-spring.xml" timestamp="1528785640969">
+        <mark key="[" line="25" column="126" />
+      </file>
+      <file name="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/common/utils/WeChatApiUtils.java" timestamp="1528856931515">
+        <mark key="[" line="97" column="27" />
+        <mark key="]" line="97" column="27" />
+        <mark key="." line="97" column="27" />
+      </file>
+      <file name="D:/code/everpay/src/main/java/com/eversec/flow/api/controller/PayController.java" timestamp="1528807883496">
+        <mark key="[" line="278" column="5" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/io/IOTest.java" timestamp="1527737972613">
+        <mark key="[" line="122" column="66" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1528805805801">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/jdk8/time/Test.java" timestamp="1527762065718">
+        <mark key="[" line="5" column="19" />
+      </file>
+      <file name="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" timestamp="1528359622649">
+        <mark key="[" line="353" column="29" />
+      </file>
+      <file name="D:/code/wxbind/src/main/java/com/eversec/weChatSubscription/api/conf/CommonConf.java" timestamp="1528784263992">
+        <mark key="[" line="38" column="0" />
+      </file>
+      <file name="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/wxbind/util/SignUtil.java" timestamp="1528784008443">
+        <mark key="[" line="30" column="33" />
+        <mark key="]" line="30" column="33" />
+        <mark key="." line="30" column="33" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/jdk8/DefaultMethod.java" timestamp="1527683364855">
+        <mark key="[" line="7" column="35" />
+      </file>
+      <file name="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/common/entity/ParaMap.java" timestamp="1528855190958">
+        <mark key="[" line="22" column="0" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/jdk8/stream/CollectTest.java" timestamp="1527674875063">
+        <mark key="[" line="11" column="26" />
+      </file>
+      <file name="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/sys/controller/IndexController.java" timestamp="1528805123733">
+        <mark key="[" line="149" column="56" />
+        <mark key="]" line="149" column="56" />
+        <mark key="^" line="149" column="26" />
+        <mark key="." line="149" column="56" />
+      </file>
+      <file name="D:/code/wxbind/src/main/java/com/eversec/weChatSubscription/api/conf/GlobalErrorHandler.java" timestamp="1528785825259">
+        <mark key="[" line="52" column="30" />
+        <mark key="]" line="52" column="30" />
+        <mark key="." line="52" column="30" />
+      </file>
+      <file name="D:/code/parent/common-util/src/test/java/jdk8/stream/NumTest.java" timestamp="1527674629078">
+        <mark key="[" line="9" column="22" />
+      </file>
+      <file name="D:/code/everpay/src/main/resources/application.yaml" timestamp="1528806741255">
         <mark key="[" line="6" column="12" />
         <mark key="]" line="6" column="12" />
         <mark key="." line="6" column="12" />
       </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/jsp/user/userDataAllIreport.jsp" timestamp="1511772465004">
-        <mark key="[" line="94" column="40" />
-        <mark key="]" line="93" column="40" />
-        <mark key="." line="93" column="40" />
+      <file name="D:/code/wxbind/src/main/java/com/eversec/weChatSubscription/weixin/controller/WeixinApiController.java" timestamp="1528805176109">
+        <mark key="[" line="53" column="89" />
+        <mark key="]" line="86" column="78" />
+        <mark key="." line="86" column="78" />
+        <mark key="^" line="86" column="78" />
       </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/jsp/user/userDataStore.jsp" timestamp="1511767044988">
-        <mark key="[" line="74" column="49" />
-        <mark key="]" line="74" column="49" />
-        <mark key="." line="74" column="49" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/WEB-INF/web.xml" timestamp="1512024158465">
-        <mark key="[" line="52" column="117" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/controller/WeixinApiController.java" timestamp="1512013653818">
-        <mark key="[" line="49" column="81" />
-        <mark key="]" line="49" column="80" />
-        <mark key="." line="49" column="80" />
-        <mark key="^" line="49" column="80" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/job/DayCalculateTaskRefactorLastNumDay.java" timestamp="1512024366872">
-        <mark key="[" line="34" column="23" />
-        <mark key="]" line="34" column="23" />
-        <mark key="." line="34" column="23" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/jsp/user/userDataAdd.jsp" timestamp="1511767212128">
-        <mark key="[" line="74" column="49" />
-        <mark key="]" line="74" column="49" />
-        <mark key="." line="74" column="49" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/controller/WxBindController.java" timestamp="1511940863090">
-        <mark key="[" line="30" column="59" />
-        <mark key="]" line="30" column="59" />
-        <mark key="." line="30" column="59" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/util/SignUtil.java" timestamp="1511942873254">
-        <mark key="[" line="27" column="1" />
-      </file>
-      <file name="D:/code/evervue/src/main/webapp/WEB-INF/views/admin/index.html" timestamp="1511960054102">
-        <mark key="[" line="62" column="34" />
-        <mark key="]" line="62" column="34" />
-        <mark key="." line="62" column="34" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/resources/logback-spring.xml" timestamp="1511944729138">
-        <mark key="[" line="64" column="17" />
-        <mark key="]" line="64" column="17" />
-        <mark key="." line="64" column="17" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/api/controller/ApiPayController.java" timestamp="1512022729828" />
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/api/TemplateMsgApi.java" timestamp="1512010541147">
-        <mark key="[" line="23" column="4" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/job/WeekUserLivennessCalculateTask.java" timestamp="1511922007470">
-        <mark key="[" line="47" column="31" />
-        <mark key="]" line="47" column="31" />
-        <mark key="." line="47" column="31" />
-        <mark key="^" line="47" column="24" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/pom.xml" timestamp="1511944311535">
-        <mark key="[" line="191" column="25" />
-        <mark key="]" line="191" column="26" />
-        <mark key="." line="191" column="26" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/filter/LoginFilter.java" timestamp="1512024194160" />
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/jsp/index.jsp" timestamp="1511753821788">
-        <mark key="[" line="1024" column="40" />
-        <mark key="]" line="1024" column="40" />
-        <mark key="." line="1024" column="40" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/jsp/user/userDataAll.jsp" timestamp="1511767165148">
-        <mark key="[" line="276" column="42" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/Constants.java" timestamp="1511855037353">
-        <mark key="[" line="153" column="74" />
-      </file>
-      <file name="D:/code/evervue/src/main/java/com/eversec/api/controller/VirusController.java" timestamp="1512011203506">
-        <mark key="[" line="42" column="72" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/common/HttpUtils.java" timestamp="1512022067038" />
-      <file name="D:/code/evervue/src/main/webapp/WEB-INF/views/admin/in1.html" timestamp="1512011302435">
-        <mark key="[" line="37" column="55" />
-        <mark key="]" line="37" column="55" />
-        <mark key="." line="37" column="55" />
-        <mark key="^" line="37" column="25" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/service/WeixinApiService.java" timestamp="1512011049626">
-        <mark key="[" line="9" column="86" />
-        <mark key="]" line="9" column="85" />
-        <mark key="^" line="9" column="85" />
-        <mark key="." line="9" column="85" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/controller/CloudReportController.java" timestamp="1512024265337">
-        <mark key="]" line="47" column="62" />
-        <mark key="." line="47" column="62" />
-      </file>
-      <file name="/Dummy.txt" timestamp="1512005854262">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/test/java/com/eversec/flow/PmzTest.java" timestamp="1512022253226">
-        <mark key="[" line="22" column="95" />
-        <mark key="]" line="22" column="95" />
-        <mark key="." line="22" column="95" />
-        <mark key="^" line="23" column="101" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/webapp/jsp/user/userDataActive.jsp" timestamp="1511777384915">
-        <mark key="[" line="73" column="49" />
-        <mark key="]" line="73" column="49" />
-        <mark key="." line="73" column="49" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/resources/MongoDB.properties" timestamp="1511517627716">
-        <mark key="[" line="6" column="75" />
-        <mark key="]" line="6" column="76" />
-        <mark key="." line="6" column="76" />
-      </file>
-      <file name="D:/code/evervue/src/main/resources/application.yaml" timestamp="1511962356674">
-        <mark key="[" line="2" column="8" />
-        <mark key="]" line="2" column="8" />
-        <mark key="." line="2" column="8" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/api/AccessToken.java" timestamp="1511942240105">
-        <mark key="[" line="22" column="20" />
-        <mark key="]" line="22" column="20" />
-        <mark key="." line="22" column="20" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/resources/application.yaml" timestamp="1511943477663">
-        <mark key="[" line="6" column="12" />
-        <mark key="]" line="6" column="12" />
-        <mark key="." line="6" column="12" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/test/LangTest.java" timestamp="1511853279565">
-        <mark key="[" line="22" column="72" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/service/CloudReportService.java" timestamp="1512025058268">
-        <mark key="[" line="110" column="40" />
-        <mark key="]" line="110" column="40" />
-        <mark key="." line="110" column="40" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/controller/WeixinController.java" timestamp="1511940972486">
-        <mark key="[" line="25" column="18" />
-        <mark key="]" line="25" column="18" />
-        <mark key="." line="25" column="18" />
-      </file>
-      <file name="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/api/TemplateData.java" timestamp="1512010714139" />
-      <file name="/fragment.java" timestamp="1511939714833">
+      <file name="/fragment.java" timestamp="1528784516911">
         <mark key="[" line="0" column="0" />
       </file>
     </filemarks>
     <jumps>
-      <jump line="70" column="36" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
-      <jump line="14" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
-      <jump line="38" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
-      <jump line="65" column="33" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
-      <jump line="66" column="35" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
-      <jump line="67" column="29" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/login.html" />
-      <jump line="54" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="126" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="47" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="79" column="117" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="0" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="3" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="4" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="5" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="6" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="7" column="19" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="155" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/HeartController.java" />
-      <jump line="0" column="0" filename="/a.dummy" />
-      <jump line="31" column="39" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="32" column="47" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="33" column="50" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="39" column="47" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="72" column="16" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="74" column="30" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="84" column="24" filename="D:/code/iBase4J/pom.xml" />
-      <jump line="28" column="24" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/DDAlarmUtil.java" />
-      <jump line="17" column="3" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
-      <jump line="37" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
-      <jump line="18" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
-      <jump line="40" column="17" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/util/ApiUUID.java" />
-      <jump line="32" column="22" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/BJPhoneJob.java" />
-      <jump line="107" column="116" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/BJPhoneJob.java" />
-      <jump line="159" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0/src/test/java/CloudV2Test.java" />
-      <jump line="156" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0/src/test/java/CloudV2Test.java" />
-      <jump line="259" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="5" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="392" column="8" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="399" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="0" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="45" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/AndroidVirusServiceImpl.java" />
-      <jump line="81" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/AndroidVirusServiceImpl.java" />
-      <jump line="241" column="60" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="242" column="36" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="244" column="66" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="245" column="29" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="60" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="61" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="62" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="114" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="115" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="119" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="32" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0/src/main/java/com/eversec/cal/util/job/JsSpecialUserCal.java" />
-      <jump line="144" column="0" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="175" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/controller/WebController.java" />
-      <jump line="220" column="8" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/api/controller/WebController.java" />
-      <jump line="165" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/LnltGeneralServiceImpl.java" />
-      <jump line="280" column="66" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/CloudServiceImpl.java" />
-      <jump line="1655" column="63" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/HeartToHeartServiceImpl.java" />
-      <jump line="46" column="29" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/IntegralAddJob.java" />
-      <jump line="78" column="78" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/quartz/PushTalk.java" />
-      <jump line="1867" column="30" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/java/com/eversec/service/impl/HeartToHeartServiceImpl.java" />
-      <jump line="34" column="46" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/api/controller/WeiXinOAuthController.java" />
-      <jump line="111" column="48" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/pay/core/OrderCore.java" />
-      <jump line="134" column="26" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/java/com/eversec/flow/pay/core/OrderCore.java" />
-      <jump line="177" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/pom.xml" />
-      <jump line="169" column="40" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/util/AdvancedUtil.java" />
-      <jump line="170" column="45" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/java/com/eversec/weChatSubscription/weixin/util/AdvancedUtil.java" />
-      <jump line="33" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/index.html" />
-      <jump line="54" column="34" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/index.html" />
-      <jump line="23" column="37" filename="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard/src/main/resources/config.properties" />
-      <jump line="36" column="20" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/lttxws/feedback.html" />
-      <jump line="116" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
-      <jump line="118" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
-      <jump line="59" column="23" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
-      <jump line="123" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
       <jump line="121" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
       <jump line="78" column="13" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
       <jump line="94" column="47" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverFlow/src/main/webapp/WEB-INF/views/wap/buy.html" />
@@ -275,65 +143,130 @@
       <jump line="41" column="12" filename="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian/src/main/java/com/eversec/dao/impl/AppNetControlService.java" />
       <jump line="40" column="16" filename="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/OrderDao.java" />
       <jump line="39" column="4" filename="D:/code/01-DevBase/050-Code/010-Source-Code/everpay/src/main/java/com/eversec/flow/pay/dao/OrderDao.java" />
+      <jump line="288" column="12" filename="D:/code/EverChildNet/src/main/java/com/eversec/childnet/api/UserController.java" />
+      <jump line="276" column="0" filename="D:/code/EverChildNet/src/main/java/com/eversec/childnet/api/UserController.java" />
+      <jump line="92" column="0" filename="D:/code/EverParentProtect/src/main/webapp/static/js/common/utils.js" />
+      <jump line="34" column="27" filename="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription/src/main/webapp/WEB-INF/views/heart/index.html" />
+      <jump line="26" column="51" filename="D:/code/EverParentProtect/src/main/webapp/static/js/common/common.js" />
+      <jump line="403" column="7" filename="D:/code/EverChildNet/src/main/java/com/eversec/childnet/api/UserController.java" />
+      <jump line="618" column="38" filename="D:/code/EverParentService/pom.xml" />
+      <jump line="212" column="19" filename="D:/code/EverParentService/pom.xml" />
+      <jump line="158" column="49" filename="D:/code/EverParentService/pom.xml" />
+      <jump line="564" column="53" filename="D:/code/EverParentService/pom.xml" />
+      <jump line="84" column="27" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/first_phone_form.jsp" />
+      <jump line="101" column="21" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/first_phone_form.jsp" />
+      <jump line="90" column="27" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/first_phone_form.jsp" />
+      <jump line="64" column="8" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/first_phone_form.jsp" />
+      <jump line="206" column="66" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/first_phone_form.jsp" />
+      <jump line="205" column="32" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/first_phone_form.jsp" />
+      <jump line="193" column="72" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="13" column="37" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="190" column="13" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="160" column="55" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="45" column="13" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="0" column="0" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="131" column="35" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBusinessService.java" />
+      <jump line="62" column="36" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBusinessService.java" />
+      <jump line="295" column="5" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBusinessService.java" />
+      <jump line="296" column="35" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBusinessService.java" />
+      <jump line="0" column="0" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBusinessService.java" />
+      <jump line="218" column="7" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="58" column="39" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="374" column="31" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="368" column="34" filename="D:/code/EverChildNet/src/test/java/com/eversec/childnet/api/ApiControllerTest.java" />
+      <jump line="329" column="71" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="327" column="2" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="79" column="49" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="412" column="10" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="415" column="4" filename="D:/code/EverChildNet/src/main/java/com/eversec/childnet/api/UserController.java" />
+      <jump line="421" column="13" filename="D:/code/EverChildNet/src/main/java/com/eversec/childnet/api/UserController.java" />
+      <jump line="261" column="41" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="346" column="13" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="517" column="13" filename="D:/code/EverParentProtect/src/main/webapp/WEB-INF/views/protect/child_binded.jsp" />
+      <jump line="95" column="29" filename="D:/code/EverParentService/src/main/java/com/eversec/protect/modules/childnet/task/service/TaskService.java" />
+      <jump line="66" column="8" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/setting/controller/ConfigSettingController.java" />
+      <jump line="393" column="30" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="246" column="36" filename="D:/code/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="553" column="19" filename="D:/code/protect/EverParentService/pom.xml" />
+      <jump line="333" column="47" filename="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="524" column="63" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="548" column="63" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="42" column="56" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="79" column="44" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="80" column="43" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="308" column="59" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="500" column="29" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="589" column="86" filename="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/bind/controller/BindController.java" />
+      <jump line="74" column="35" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/PushUtils.java" />
+      <jump line="407" column="16" filename="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="442" column="73" filename="D:/code/protect/EverParentProtect/src/main/java/com/eversec/protect/modules/childnet/controller/ChildController.java" />
+      <jump line="1019" column="38" filename="D:/install/java8/jdk/src.zip!/java/util/ArrayList.java" />
+      <jump line="272" column="36" filename="D:/code/protect/EverParentProtect/src/main/webapp/WEB-INF/views/protect/child_binded.jsp" />
+      <jump line="432" column="31" filename="D:/code/protect/EverParentProtect/src/main/webapp/WEB-INF/views/protect/child_binded.jsp" />
+      <jump line="860" column="0" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="872" column="0" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/bind/service/BindBaseService.java" />
+      <jump line="1023" column="8" filename="D:/install/java8/jdk/src.zip!/java/util/ArrayList.java" />
+      <jump line="80" column="47" filename="D:/code/protect/EverChildNet/src/test/java/com/eversec/childnet/api/TestControllerTest.java" />
+      <jump line="35" column="13" filename="D:/code/protect/EverChildNet/src/test/java/com/eversec/childnet/api/TestControllerTest.java" />
+      <jump line="36" column="11" filename="D:/code/protect/EverChildNet/src/test/java/com/eversec/childnet/api/TestControllerTest.java" />
+      <jump line="45" column="45" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/user/entity/Const.java" />
+      <jump line="49" column="0" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/user/entity/Const.java" />
+      <jump line="302" column="25" filename="D:/code/protect/EverParentService/src/main/java/com/eversec/protect/modules/childnet/mdm/utils/MdmUtils.java" />
+      <jump line="45" column="32" filename="D:/code/protect/EverParentProtect/pom.xml" />
+      <jump line="54" column="32" filename="D:/code/protect/EverParentProtect/pom.xml" />
+      <jump line="56" column="6" filename="D:/code/protect/EverParentProtect/pom.xml" />
+      <jump line="137" column="61" filename="D:/code/protect/EverParentProtect/pom.xml" />
+      <jump line="164" column="34" filename="D:/code/protect/EverParentProtect/pom.xml" />
+      <jump line="43" column="5" filename="D:/code/protect/EverParentProtect/pom.xml" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>null</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tILbgxL/CvNfK1LTF5NbDIC0tPgogICAgICAgIDxyZXNvdXJjZXM+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+c3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8IS0tINfK1LS4+cS/wrzFxbP9uPe7t76ztcTF5NbDo6zKudPDtaW2wLXE18rUtMS/wrzAtNa4tqggLS0+CiAgICAgICAgICAgICAgICA8ZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGV2Lyo8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+cHJvZC8qPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmVzX3Rlc3QvKjwvZXhjbHVkZT4KICAgICAgICAgICAgICAgIDwvZXhjbHVkZXM+CiAgICAgICAgICAgIDwvcmVzb3VyY2U+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+c3JjL21haW4vcmVzb3VyY2VzLyR7cHJvZmlsZXMuYWN0aXZlfTwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgIDwvcmVzb3VyY2VzPgo=</text>
       </register>
       <register name="-" type="4">
-        <text>null</text>
+        <text />
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxlbnN1cmVcPg==</text>
+        <text encoding="base64">XDxyZXNvdXJjZXNcPg==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaXZhdGUgU3RyaW5nIHZwbklwOwo=</text>
+        <text encoding="base64">ICAgIHByaXZhdGUgc3RhdGljIFN0cmluZyB3ZWNoYXQgPSBHbG9iYWxDb25zdGFudC53ZWNoYXRVcmwgKyAid3hiaW5kIjsK</text>
       </register>
-      <register name="1" type="4">
-        <text>@Autowired
-	UserDao userDao;</text>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICA8IS0tILbgxL/CvNfK1LTF5NbDIC0tPgogICAgICAgIDxyZXNvdXJjZXM+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+c3JjL21haW4vcmVzb3VyY2VzPC9kaXJlY3Rvcnk+CiAgICAgICAgICAgICAgICA8IS0tINfK1LS4+cS/wrzFxbP9uPe7t76ztcTF5NbDo6zKudPDtaW2wLXE18rUtMS/wrzAtNa4tqggLS0+CiAgICAgICAgICAgICAgICA8ZXhjbHVkZXM+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+ZGV2Lyo8L2V4Y2x1ZGU+CiAgICAgICAgICAgICAgICAgICAgPGV4Y2x1ZGU+cHJvZC8qPC9leGNsdWRlPgogICAgICAgICAgICAgICAgICAgIDxleGNsdWRlPmVzX3Rlc3QvKjwvZXhjbHVkZT4KICAgICAgICAgICAgICAgIDwvZXhjbHVkZXM+CiAgICAgICAgICAgIDwvcmVzb3VyY2U+CiAgICAgICAgICAgIDxyZXNvdXJjZT4KICAgICAgICAgICAgICAgIDxkaXJlY3Rvcnk+c3JjL21haW4vcmVzb3VyY2VzLyR7cHJvZmlsZXMuYWN0aXZlfTwvZGlyZWN0b3J5PgogICAgICAgICAgICA8L3Jlc291cmNlPgogICAgICAgIDwvcmVzb3VyY2VzPgo=</text>
       </register>
       <register name="2" type="4">
-        <text>,&quot;utf-8&quot;);
-        JSONObject root = JSON.parseObject(resp);</text>
+        <text encoding="base64">IDwhLS0gtuC7t76zxL/CvMXk1sMgLS0+CiAgICA8cHJvZmlsZXM+CiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDwhLS0gyfqy+ru3vrMgLS0+CiAgICAgICAgICAgIDxpZD5wcm9kPC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZXMuYWN0aXZlPnByb2Q8L3Byb2ZpbGVzLmFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4KCiAgICAgICAgPHByb2ZpbGU+CiAgICAgICAgICAgIDwhLS0gsuLK1Lu3vrMgLS0+CiAgICAgICAgICAgIDxpZD5lc190ZXN0PC9pZD4KICAgICAgICAgICAgPHByb3BlcnRpZXM+CiAgICAgICAgICAgICAgICA8cHJvZmlsZXMuYWN0aXZlPmVzX3Rlc3Q8L3Byb2ZpbGVzLmFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgIDwvcHJvZmlsZT4KICAgICAgICA8cHJvZmlsZT4KICAgICAgICAgICAgPCEtLSC/qreiu7e+syAtLT4KICAgICAgICAgICAgPGlkPmRldjwvaWQ+CiAgICAgICAgICAgIDxwcm9wZXJ0aWVzPgogICAgICAgICAgICAgICAgPHByb2ZpbGVzLmFjdGl2ZT5kZXY8L3Byb2ZpbGVzLmFjdGl2ZT4KICAgICAgICAgICAgPC9wcm9wZXJ0aWVzPgogICAgICAgICAgICA8YWN0aXZhdGlvbj4KICAgICAgICAgICAgICAgIDxhY3RpdmVCeURlZmF1bHQ+dHJ1ZTwvYWN0aXZlQnlEZWZhdWx0PgogICAgICAgICAgICA8L2FjdGl2YXRpb24+CiAgICAgICAgPC9wcm9maWxlPgogICAgPC9wcm9maWxlcz4=</text>
       </register>
-      <register name="3" type="4">
-        <text>() {
-                    
-                }</text>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICAgICBNYXA8U3RyaW5nLFN0cmluZz4gdGVtcGxhdGVNc2dDb25mID0gTWFwcy5uZXdIYXNoTWFwKCk7Cg==</text>
       </register>
-      <register name="4" type="4">
-        <text>() {
-                    
-                }</text>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
-      <register name="5" type="4">
-        <text>methods: {
-                show: function () {
-                    this.visible = true;
-                }
-            }</text>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHBhcmVudFN1cHBvcnRPcGVyYXRvciA9IEdsb2JhbC5nZXRDb25maWcoInBhcmVudC5zdXBwb3J0Lm9wZXJhdG9yIik7Cg==</text>
       </register>
-      <register name="6" type="4">
-        <text encoding="base64">PHN0eWxlPgoKICAgIDwvc3R5bGU+</text>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHBhcmVudFN1cHBvcnRPcGVyYXRvciA9IEdsb2JhbC5nZXRDb25maWcoInBhcmVudC5zdXBwb3J0Lm9wZXJhdG9yIik7Cg==</text>
       </register>
-      <register name="7" type="4">
-        <text encoding="base64">cHVibGljIHN0YXRpYyBNYXA8U3RyaW5nLExvbmc+IGNsaWVudElPU29mSlMoRGF0ZSBzdGFydCwgRGF0ZSBlbmQpewogICAgICAgREIgZGIgPSBNb25nb0RCVXRpbC5nZXRNb25nb0RCVXRpbCgpLmdldERCKCk7CiAgICAgICBEQkNvbGxlY3Rpb24gY29sID0gZGIuZ2V0Q29sbGVjdGlvbigiQ2FsbHVzZXIiKTsKCiAgICAgICBCYXNpY0RCTGlzdCB2ZXJzaW9ucyA9IG5ldyBCYXNpY0RCTGlzdCgpOwogICAgICAgdmVyc2lvbnMuYWRkQWxsKEFycmF5cy5hc0xpc3QoIjEuMC4xIiwgIjEuMC4yIiwgIjEuMC4zIiwgIjIuMC4xIiwgIjIuMC4yIiwgIjIuMC4zIiwgIjIuMC40IikpOwogICAgICAgIEJhc2ljREJPYmplY3QgcXVlcnlBZGQgPSBuZXcgQmFzaWNEQk9iamVjdCgpCiAgICAgICAgICAgICAgIC5hcHBlbmQoIkNyZWF0VGltZSIsbmV3IEJhc2ljREJPYmplY3QoIiRndCIsc3RhcnQpLmFwcGVuZCgiJGx0ZSIsZW5kKSkKICAgICAgICAgICAgICAgLmFwcGVuZCgiVmVyc2lvbiIsbmV3IEJhc2ljREJPYmplY3QoIiRpbiIsdmVyc2lvbnMpKQogICAgICAgICAgICAgICAuYXBwZW5kKCJJTUVJIixuZXcgQmFzaWNEQk9iamVjdCgiJGV4aXN0cyIsZmFsc2UpKTsKICAgICAgIExvbmcgY2xpZW50TmV3ID0gY29sLmNvdW50KHF1ZXJ5QWRkKTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PWNsaWVudF9pb3NfanNfcXVlcnlOZXc9IitxdWVyeUFkZC50b1N0cmluZygpKTsKCiAgICAgICAgQmFzaWNEQk9iamVjdCBxdWVyeUFsbCA9IHF1ZXJ5QWRkLmFwcGVuZCgiQ3JlYXRUaW1lIixuZXcgQmFzaWNEQk9iamVjdCgiJGx0ZSIsZW5kKSk7CiAgICAgICAgTG9uZyBjbGllbnRBbGwgPSBjb2wuY291bnQocXVlcnlBbGwpOwogICAgICAgIEhhc2hNYXA8U3RyaW5nLExvbmc+IG1hcCA9IG5ldyBIYXNoTWFwPFN0cmluZywgTG9uZz4oKTsKICAgICAgICBtYXAucHV0KCJjbGllbnRBbGwiLGNsaWVudEFsbCk7CiAgICAgICAgbWFwLnB1dCgiY2xpZW50TmV3IixjbGllbnROZXcpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09Y2xpZW50X2lvc19qc19xdWVyeUFsbD0iK3F1ZXJ5QWxsLnRvU3RyaW5nKCkpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09Y2xpZW50X2lvc19qc19hbGw9IitjbGllbnRBbGwpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09Y2xpZW50X2lvc19qc19uZXc9IitjbGllbnROZXcpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9CiAgICBwdWJsaWMgc3RhdGljIE1hcDxTdHJpbmcsTG9uZz4gY2xpZW50QW5kb2ZKUyhEYXRlIHN0YXJ0LCBEYXRlIGVuZCl7CiAgICAgICAgREIgZGIgPSBNb25nb0RCVXRpbC5nZXRNb25nb0RCVXRpbCgpLmdldERCKCk7CiAgICAgICAgREJDb2xsZWN0aW9uIGNvbCA9IGRiLmdldENvbGxlY3Rpb24oIkNhbGx1c2VyIik7CgogICAgICAgIEJhc2ljREJMaXN0IHZlcnNpb25zID0gbmV3IEJhc2ljREJMaXN0KCk7CiAgICAgICAgdmVyc2lvbnMuYWRkQWxsKEFycmF5cy5hc0xpc3QoIjYuMS4wLjQ1MDEwIiwgIjYuMS4wLjQ1MDExIiwgIjEuMC4yIiwgIjEuMC4zIiwgIjEuMC40IiwgIjEuMC41IiwgIjEuMC42IiwgIjEuMC43IiwgIjEuMC44IiwgIjEuMC45IiwgIjEuMS4wIiwgIjEuMS4xIiwgIjEuMS4yIikpOwogICAgICAgIEJhc2ljREJPYmplY3QgcXVlcnlOZXcgPSBuZXcgQmFzaWNEQk9iamVjdCgpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJDcmVhdFRpbWUiLG5ldyBCYXNpY0RCT2JqZWN0KCIkZ3QiLHN0YXJ0KS5hcHBlbmQoIiRsdGUiLGVuZCkpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJWZXJzaW9uIixuZXcgQmFzaWNEQk9iamVjdCgiJGluIix2ZXJzaW9ucykpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJJTUVJIixuZXcgQmFzaWNEQk9iamVjdCgiJGV4aXN0cyIsdHJ1ZSkpOwogICAgICAgIExvbmcgY2xpZW50TmV3ID0gY29sLmNvdW50KHF1ZXJ5TmV3KTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PWNsaWVudF9hbmRyb2lkX2pzX3F1ZXJ5TmV3PSIrcXVlcnlOZXcudG9TdHJpbmcoKSk7CgogICAgICAgIEJhc2ljREJPYmplY3QgcXVlcnlBbGwgPSBxdWVyeU5ldy5hcHBlbmQoIkNyZWF0VGltZSIsbmV3IEJhc2ljREJPYmplY3QoIiRsdGUiLGVuZCkpOwogICAgICAgIExvbmcgY2xpZW50QWxsID0gY29sLmNvdW50KHF1ZXJ5QWxsKTsKICAgICAgICBIYXNoTWFwPFN0cmluZyxMb25nPiBtYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIExvbmc+KCk7CiAgICAgICAgbWFwLnB1dCgiY2xpZW50QWxsIixjbGllbnRBbGwpOwogICAgICAgIG1hcC5wdXQoImNsaWVudE5ldyIsY2xpZW50TmV3KTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PWNsaWVudF9hbmRyb2lkX2pzX3F1ZXJ5QWxsPSIrcXVlcnlBbGwudG9TdHJpbmcoKSk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1jbGllbnRfYW5kcm9pZF9qc19hbGw9IitjbGllbnRBbGwpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09Y2xpZW50X2FuZHJvaWRfanNfbmV3PSIrY2xpZW50TmV3KTsKICAgICAgICByZXR1cm4gbWFwOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxMb25nPiBzZGt5eGR0T2ZKcyhEYXRlIHN0LCBEYXRlIGVkKXsKICAgICAgICBEQiBkYiA9IE1vbmdvREJVdGlsLmdldE1vbmdvREJVdGlsKCkuZ2V0REIoKTsKICAgICAgICBEQkNvbGxlY3Rpb24gY29sID0gZGIuZ2V0Q29sbGVjdGlvbigiQ2FsbHVzZXIiKTsKCiAgICAgICAgQmFzaWNEQk9iamVjdCB5eGR0X3F1ZXJ5TmV3ID0gbmV3IEJhc2ljREJPYmplY3QoKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiQ3JlYXRUaW1lIixuZXcgQmFzaWNEQk9iamVjdCgiJGd0IixzdCkuYXBwZW5kKCIkbHRlIixlZCkpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJWZXJzaW9uIiwgUGF0dGVybi5jb21waWxlKCJcXGQrXFwuXFxkK1xcLjg4XFwuXFxkKyIpKTsKICAgICAgICBMb25nIHl4ZHRfTmV3ID0gY29sLmNvdW50KHl4ZHRfcXVlcnlOZXcpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09c2RrX2pzX3l4ZHRfcXVlcnlOZXc9Iit5eGR0X3F1ZXJ5TmV3LnRvU3RyaW5nKCkpOwoKICAgICAgICBCYXNpY0RCT2JqZWN0IHl4ZHRfcXVlcnlBbGwgPSB5eGR0X3F1ZXJ5TmV3LmFwcGVuZCgiQ3JlYXRUaW1lIixuZXcgQmFzaWNEQk9iamVjdCgiJGx0ZSIsZWQpKTsKICAgICAgICBMb25nIHl4ZHRfQWxsID0gY29sLmNvdW50KHl4ZHRfcXVlcnlBbGwpOwogICAgICAgIEhhc2hNYXA8U3RyaW5nLExvbmc+IG1hcCA9IG5ldyBIYXNoTWFwPFN0cmluZywgTG9uZz4oKTsKICAgICAgICBtYXAucHV0KCJ5eGR0X0FsbCIseXhkdF9BbGwpOwogICAgICAgIG1hcC5wdXQoInl4ZHRfTmV3Iix5eGR0X05ldyk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfanNfeXhkdF9xdWVyeUFsbD0iK3l4ZHRfcXVlcnlBbGwudG9TdHJpbmcoKSk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfanNfeXhkdF9hbGw9Iit5eGR0X0FsbCk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfanNfeXhkdF9uZXc9Iit5eGR0X05ldyk7CiAgICAgICAgcmV0dXJuIG1hcDsKICAgIH0KICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxMb25nPiBzZGt6c3l5dE9mSnMoRGF0ZSBzdCwgRGF0ZSBlZCl7CiAgICAgICAgREIgZGIgPSBNb25nb0RCVXRpbC5nZXRNb25nb0RCVXRpbCgpLmdldERCKCk7CiAgICAgICAgREJDb2xsZWN0aW9uIGNvbCA9IGRiLmdldENvbGxlY3Rpb24oIkNhbGx1c2VyIik7CgogICAgICAgIEJhc2ljREJPYmplY3QgenN5eXRfcXVlcnlOZXcgPSBuZXcgQmFzaWNEQk9iamVjdCgpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJDcmVhdFRpbWUiLG5ldyBCYXNpY0RCT2JqZWN0KCIkZ3QiLHN0KS5hcHBlbmQoIiRsdGUiLGVkKSkKICAgICAgICAgICAgICAgIC5hcHBlbmQoIlZlcnNpb24iLCBQYXR0ZXJuLmNvbXBpbGUoIl4xMDAwIikpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJDaGFubmVsIiwgbmV3IEJhc2ljREJPYmplY3QoIiRuZSIsIkhlaWxvbmdqaWFuZyIpKTsKICAgICAgICBMb25nIHpzeXl0X05ldyA9IGNvbC5jb3VudCh6c3l5dF9xdWVyeU5ldyk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfanNfenN5eXRfcXVlcnlOZXc9Iit6c3l5dF9xdWVyeU5ldy50b1N0cmluZygpKTsKCiAgICAgICAgQmFzaWNEQk9iamVjdCB6c3l5dF9xdWVyeUFsbCA9IHpzeXl0X3F1ZXJ5TmV3LmFwcGVuZCgiQ3JlYXRUaW1lIixuZXcgQmFzaWNEQk9iamVjdCgiJGx0ZSIsZWQpKTsKICAgICAgICBMb25nIHpzeXl0X0FsbCA9IGNvbC5jb3VudCh6c3l5dF9xdWVyeUFsbCk7CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsTG9uZz4gbWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBMb25nPigpOwogICAgICAgIG1hcC5wdXQoInpzeXl0X0FsbCIsenN5eXRfQWxsKTsKICAgICAgICBtYXAucHV0KCJ6c3l5dF9OZXciLHpzeXl0X05ldyk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfanNfenN5eXRfcXVlcnlBbGw9Iit6c3l5dF9xdWVyeUFsbC50b1N0cmluZygpKTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PXNka19qc196c3l5dF9hbGw9Iit6c3l5dF9BbGwpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09c2RrX2pzX3pzeXl0X25ldz0iK3pzeXl0X05ldyk7CiAgICAgICAgcmV0dXJuIG1hcDsKICAgIH0KICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxMb25nPiBzZGt6c3l5dE9mSExKKERhdGUgc3QsIERhdGUgZWQpewogICAgICAgIERCIGRiID0gTW9uZ29EQlV0aWwuZ2V0TW9uZ29EQlV0aWwoKS5nZXREQigpOwogICAgICAgIERCQ29sbGVjdGlvbiBjb2wgPSBkYi5nZXRDb2xsZWN0aW9uKCJDYWxsdXNlciIpOwoKICAgICAgICBCYXNpY0RCT2JqZWN0IHpzeXl0X3F1ZXJ5TmV3ID0gbmV3IEJhc2ljREJPYmplY3QoKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiQ3JlYXRUaW1lIixuZXcgQmFzaWNEQk9iamVjdCgiJGd0IixzdCkuYXBwZW5kKCIkbHRlIixlZCkpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJWZXJzaW9uIiwgUGF0dGVybi5jb21waWxlKCJeMTAwMCIpKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiQ2hhbm5lbCIsICJIZWlsb25namlhbmciKTsKICAgICAgICBMb25nIHpzeXl0X05ldyA9IGNvbC5jb3VudCh6c3l5dF9xdWVyeU5ldyk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfaGxqX3pzeXl0X3F1ZXJ5TmV3PSIrenN5eXRfcXVlcnlOZXcudG9TdHJpbmcoKSk7CgogICAgICAgIEJhc2ljREJPYmplY3QgenN5eXRfcXVlcnlBbGwgPSB6c3l5dF9xdWVyeU5ldy5hcHBlbmQoIkNyZWF0VGltZSIsbmV3IEJhc2ljREJPYmplY3QoIiRsdGUiLGVkKSk7CiAgICAgICAgTG9uZyB6c3l5dF9BbGwgPSBjb2wuY291bnQoenN5eXRfcXVlcnlBbGwpOwogICAgICAgIEhhc2hNYXA8U3RyaW5nLExvbmc+IG1hcCA9IG5ldyBIYXNoTWFwPFN0cmluZywgTG9uZz4oKTsKICAgICAgICBtYXAucHV0KCJ6c3l5dF9BbGwiLHpzeXl0X0FsbCk7CiAgICAgICAgbWFwLnB1dCgienN5eXRfTmV3Iix6c3l5dF9OZXcpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09c2RrX2hsal96c3l5dF9xdWVyeUFsbD0iK3pzeXl0X3F1ZXJ5QWxsLnRvU3RyaW5nKCkpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09c2RrX2hsal96c3l5dF9hbGw9Iit6c3l5dF9BbGwpOwogICAgICAgIGxvZy5pbmZvKCI9PT09PT09PT09PT09c2RrX2hsal96c3l5dF9uZXc9Iit6c3l5dF9OZXcpOwogICAgICAgIHJldHVybiBtYXA7CiAgICB9CiAgICBwdWJsaWMgc3RhdGljIE1hcDxTdHJpbmcsTG9uZz4gc2RrY2x6c09mU0MoRGF0ZSBzdCwgRGF0ZSBlZCl7CiAgICAgICAgREIgZGIgPSBNb25nb0RCVXRpbC5nZXRNb25nb0RCVXRpbCgpLmdldERCKCk7CiAgICAgICAgREJDb2xsZWN0aW9uIGNvbCA9IGRiLmdldENvbGxlY3Rpb24oIkNhbGx1c2VyIik7CgogICAgICAgIEJhc2ljREJPYmplY3QgY2x6c19xdWVyeU5ldyA9IG5ldyBCYXNpY0RCT2JqZWN0KCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoIkNyZWF0VGltZSIsbmV3IEJhc2ljREJPYmplY3QoIiRndCIsc3QpLmFwcGVuZCgiJGx0ZSIsZWQpKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiQ2hhbm5lbCIsICI5NiIpOwogICAgICAgIExvbmcgY2x6c19OZXcgPSBjb2wuY291bnQoY2x6c19xdWVyeU5ldyk7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT1zZGtfc2NfY2x6c19xdWVyeU5ldz0iK2NsenNfcXVlcnlOZXcudG9TdHJpbmcoKSk7CgogICAgICAgIEJhc2ljREJPYmplY3QgY2x6c19xdWVyeUFsbCA9IGNsenNfcXVlcnlOZXcuYXBwZW5kKCJDcmVhdFRpbWUiLG5ldyBCYXNpY0RCT2JqZWN0KCIkbHRlIixlZCkpOwogICAgICAgIExvbmcgY2x6c19BbGwgPSBjb2wuY291bnQoY2x6c19xdWVyeUFsbCk7CiAgICAgICAgSGFzaE1hcDxTdHJpbmcsTG9uZz4gbWFwID0gbmV3IEhhc2hNYXA8U3RyaW5nLCBMb25nPigpOwogICAgICAgIG1hcC5wdXQoImNsenNfQWxsIixjbHpzX0FsbCk7CiAgICAgICAgbWFwLnB1dCgiY2x6c19OZXciLGNsenNfTmV3KTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PXNka19zY19jbHpzX3F1ZXJ5QWxsPSIrY2x6c19xdWVyeUFsbC50b1N0cmluZygpKTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PXNka19zY19jbHpzX2FsbD0iK2NsenNfQWxsKTsKICAgICAgICBsb2cuaW5mbygiPT09PT09PT09PT09PXNka19zY19jbHpzX25ldz0iK2NsenNfTmV3KTsKICAgICAgICByZXR1cm4gbWFwOwogICAgfQoKICAgIHB1YmxpYyBzdGF0aWMgTWFwPFN0cmluZyxMb25nPiBuYXRpb253aWRlVXNlckNvdW50KERhdGUgc3RhcnQsIERhdGUgZW5kKXsKICAgICAgICBEQiBkYiA9IE1vbmdvREJVdGlsLmdldE1vbmdvREJVdGlsKCkuZ2V0REIoKTsKICAgICAgICBEQkNvbGxlY3Rpb24gY29sID0gZGIuZ2V0Q29sbGVjdGlvbigiQ2FsbHVzZXIiKTsKICAgICAgICBsb25nIHFnX2FkZCA9IGNvbC5jb3VudChCYXNpY0RCT2JqZWN0QnVpbGRlci5zdGFydCgpLmFwcGVuZCgiQ3JlYXRUaW1lIixuZXcgQmFzaWNEQk9iamVjdCgiJGd0IixzdGFydCkuYXBwZW5kKCIkbHRlIixlbmQpKS5nZXQoKSk7CiAgICAgICAgbG9uZyBxZ19hbGwgPSBjb2wuY291bnQobmV3IEJhc2ljREJPYmplY3QoIkNyZWF0VGltZSIsbmV3IEJhc2ljREJPYmplY3QoIiRsdGUiLGVuZCkpKTsKICAgICAgICBIYXNoTWFwPFN0cmluZyxMb25nPiBtYXAgPSBuZXcgSGFzaE1hcDxTdHJpbmcsIExvbmc+KCk7CiAgICAgICAgbWFwLnB1dCgicWdfYWxsIixxZ19hbGwpOwogICAgICAgIG1hcC5wdXQoInFnX2FkZCIscWdfYWRkKTsKICAgICAgICByZXR1cm4gbWFwOwogICAgfQoKICAgIC8qKgogICAgICogOC4w1q7HsLXE08O7p82zvMYKICAgICAqIEBwYXJhbSBzdGFydAogICAgICogQHBhcmFtIGVuZAogICAgICogQHJldHVybgogICAgICovCiAgICBwdWJsaWMgc3RhdGljIE1hcDxTdHJpbmcsTG9uZz4gb2xkVXNlcihEYXRlIHN0YXJ0LERhdGUgZW5kKXsKCiAgICAgICAgbG9nLmluZm8oIrvxyKE4LjDWrsewy/nTw2NsaWVudNPDu6c6Iik7CiAgICAgICAgREIgZGIgPSBNb25nb0RCVXRpbC5nZXRNb25nb0RCVXRpbCgpLmdldERCKCk7CiAgICAgICAgREJDb2xsZWN0aW9uIGNvbCA9IGRiLmdldENvbGxlY3Rpb24oIkNhbGx1c2VyIik7CgogICAgICAgIGxvZy5pbmZvKCKy6dGv0MLU9sqxvOSjuiIgKyBzdGFydCArICK1vSIgKyBlbmQpOwogICAgICAgIEJhc2ljREJPYmplY3QgbmV3QWRkUXVlcnkgPSBDYWxVdGlsLnNka3F1ZXJ5KG5ldyBCYXNpY0RCT2JqZWN0KCJDcmVhdFRpbWUiLAogICAgICAgICAgICAgICAgbmV3IEJhc2ljREJPYmplY3QoKS5hcHBlbmQoIiRndCIsIHN0YXJ0KS5hcHBlbmQoIiRsdGUiLCBlbmQpKSxmYWxzZSk7CiAgICAgICAgbG9uZyBuZXdOdW0gPSBjb2wuY291bnQobmV3QWRkUXVlcnkpOwogICAgICAgIGxvZy5pbmZvKCKy6dGv0MLU9qO6IiArIG5ld051bSk7CgogICAgICAgIGxvZy5pbmZvKCKy6dGvy/nT0MqxvOSjurW9IiArIGVuZCk7CiAgICAgICAgQmFzaWNEQk9iamVjdCBhbGxRdWVyeSA9IENhbFV0aWwuc2RrcXVlcnkobmV3IEJhc2ljREJPYmplY3QoIkNyZWF0VGltZSIsCiAgICAgICAgICAgICAgICBuZXcgQmFzaWNEQk9iamVjdCgiJGx0ZSIsIGVuZCkpLGZhbHNlKTsKICAgICAgICBsb25nIGFsbE51bSA9IGNvbC5jb3VudChhbGxRdWVyeSk7CiAgICAgICAgbG9nLmluZm8oIrLp0a/L+dPQo7oiICsgYWxsTnVtKTsKCgogICAgICAgIE1hcDxTdHJpbmcsTG9uZz4gbWFwID0gbmV3IEhhc2hlZE1hcCgpOwogICAgICAgIG1hcC5wdXQoIm5ldyIsbmV3TnVtKTsKICAgICAgICBtYXAucHV0KCJhbGwiLGFsbE51bSk7CiAgICAgICAgcmV0dXJuIG1hcDsKICAgIH0KCiAgICAvKioKICAgICAqIDguMNaux7C1xNPDu6fNs7zGCiAgICAgKiBAcGFyYW0gc3RhcnQKICAgICAqIEBwYXJhbSBlbmQKICAgICAqIEByZXR1cm4KICAgICAqLwogICAgcHVibGljIE1hcDxTdHJpbmcsSW50ZWdlcj4gb2xkVXNlcjEoRGF0ZSBzdGFydCwgRGF0ZSBlbmQpewoKICAgICAgICBsb2cuaW5mbygiu/HIoTguMNaux7DL+dPDY2xpZW5008O7pzoiKTsKICAgICAgICBEQiBkYiA9IE1vbmdvREJVdGlsLmdldE1vbmdvREJVdGlsKCkuZ2V0REIoKTsKICAgICAgICBEQkNvbGxlY3Rpb24gY29sID0gZGIuZ2V0Q29sbGVjdGlvbigiQ2FsbHVzZXIiKTsKICAgICAgICBEQkNvbGxlY3Rpb24gY29sYWRkID0gZGIuZ2V0Q29sbGVjdGlvbigidGVtcF9hZGRfdXNlciIpOwogICAgICAgIERCQ29sbGVjdGlvbiBjb2xjbGllbnQgPSBkYi5nZXRDb2xsZWN0aW9uKCJ0ZW1wX2FkZF9jbGllbnQiKTsKCiAgICAgICAgbG9nLmluZm8oIrLp0a/QwtT2yrG85KO6IiArIHN0YXJ0ICsgIrW9IiArIGVuZCk7CiAgICAgICAgQmFzaWNEQk9iamVjdCBuZXdBZGRRdWVyeSA9IENhbFV0aWwuc2RrcXVlcnkobmV3IEJhc2ljREJPYmplY3QoIkNyZWF0VGltZSIsCiAgICAgICAgICAgICAgICBuZXcgQmFzaWNEQk9iamVjdCgpLmFwcGVuZCgiJGd0Iiwgc3RhcnQpLmFwcGVuZCgiJGx0ZSIsIGVuZCkpLGZhbHNlKTsKICAgICAgICBEQkN1cnNvciBhZGRDdXJzb3IgPSBjb2wuZmluZChuZXdBZGRRdWVyeSk7CiAgICAgICAgaW50IGogPSAwOwogICAgICAgIHdoaWxlIChhZGRDdXJzb3IuaGFzTmV4dCgpKXsKICAgICAgICAgICAgaisrOwogICAgICAgICAgICBpZiAoaiA9PSAxMDApIGJyZWFrOwogICAgICAgICAgICBEQk9iamVjdCBkYk9iamVjdCA9IGFkZEN1cnNvci5uZXh0KCk7CiAgICAgICAgICAgIGNvbGFkZC5zYXZlKGRiT2JqZWN0KTsKICAgICAgICB9Ci8vICAgICAgICBpbnQgbmV3TnVtID0gKGludCljb2wuY291bnQobmV3QWRkUXVlcnkpOwovLyAgICAgICAgbG9nLmluZm8oIrLp0a/QwtT2o7oiICsgbmV3TnVtKTsKCiAgICAgICAgbG9nLmluZm8oIrLp0a/L+dPQyrG85KO6tb0iICsgZW5kKTsKICAgICAgICBCYXNpY0RCT2JqZWN0IGFsbFF1ZXJ5ID0gQ2FsVXRpbC5zZGtxdWVyeShuZXcgQmFzaWNEQk9iamVjdCgiQ3JlYXRUaW1lIiwKICAgICAgICAgICAgICAgIG5ldyBCYXNpY0RCT2JqZWN0KCIkbHRlIiwgZW5kKS5hcHBlbmQoIiRndCIsc3RhcnQpKSx0cnVlKTsKICAgICAgICBEQkN1cnNvciBjdXJzb3IgPSBjb2wuZmluZChhbGxRdWVyeSk7CiAgICAgICAgaW50IGkgPSAwOwogICAgICAgIHdoaWxlIChjdXJzb3IuaGFzTmV4dCgpKXsKICAgICAgICAgICAgaSsrOwogICAgICAgICAgICBpZiAoaSA9PSAxMDApIGJyZWFrOwogICAgICAgICAgICBEQk9iamVjdCBkYk9iamVjdCA9IGN1cnNvci5uZXh0KCk7CiAgICAgICAgICAgIGNvbGNsaWVudC5zYXZlKGRiT2JqZWN0KTsKLy8gICAgICAgICAgICBTeXN0ZW0ub3V0LnByaW50bG4oZGJPYmplY3QudG9TdHJpbmcoKSk7CiAgICAgICAgfQovLyAgICAgICAgaW50IGFsbE51bSA9IChpbnQpY29sLmNvdW50KGFsbFF1ZXJ5KTsKLy8gICAgICAgIGxvZy5pbmZvKCKy6dGvy/nT0KO6IiArIGFsbE51bSk7CgoKCiAgICAgICAgTWFwPFN0cmluZyxJbnRlZ2VyPiBtYXAgPSBuZXcgSGFzaGVkTWFwKCk7Ci8vICAgICAgICBtYXAucHV0KCJuZXciLG5ld051bSk7Ci8vICAgICAgICBtYXAucHV0KCJhbGwiLGFsbE51bSk7Ci8vICAgICAgICBtYXAucHV0KCJhY3RpdmUiLGFjdGl2ZU51bSk7CiAgICAgICAgcmV0dXJuIG1hcDsKICAgIH0KCiAgICBwdWJsaWMgaW50IGdldE5ldFNpZGVVc2VyQ291bnQoRGF0ZSBzdCxEYXRlIGVkKXsKCiAgICAgICAgREIgZGIgPSBNb25nb0RCVXRpbC5nZXRNb25nb0RCVXRpbCgpLmdldERCKCk7CiAgICAgICAgREJDb2xsZWN0aW9uIGNvbCA9IGRiLmdldENvbGxlY3Rpb24oIk5ldFNpZGVVc2VyIik7CiAgICAgICAgQmFzaWNEQk9iamVjdCBxdWVyeSA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7CiAgICAgICAgaWYgKHN0ICE9IG51bGwgfHwgZWQgIT0gbnVsbCkgewoKICAgICAgICAgICAgQmFzaWNEQk9iamVjdCBkYm9iaiA9IG5ldyBCYXNpY0RCT2JqZWN0KCk7CiAgICAgICAgICAgIGlmKHN0IT1udWxsKXsKICAgICAgICAgICAgICAgIGRib2JqLmFwcGVuZCgiJGd0ZSIsIHN0KTsKICAgICAgICAgICAgfQogICAgICAgICAgICBpZihlZCE9bnVsbCl7CiAgICAgICAgICAgICAgICBkYm9iai5hcHBlbmQoIiRsdCIsIGVkKTsKICAgICAgICAgICAgfQogICAgICAgICAgICBxdWVyeS5hcHBlbmQoIkNyZWF0VGltZSIsIGRib2JqKTsKICAgICAgICB9CiAgICAgICAgaW50IGNvdW50ID0gY29sLmRpc3RpbmN0KCJwaG9uZSIsIHF1ZXJ5KS5zaXplKCk7CiAgICAgICAgbG9nLmluZm8oInF1ZXJ5IHJlc3VsdDoiK2NvdW50KTsKICAgICAgICByZXR1cm4gY291bnQ7CiAgICB9</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHBhcmVudFN1cHBvcnRPcGVyYXRvciA9IEdsb2JhbC5nZXRDb25maWcoInBhcmVudC5zdXBwb3J0Lm9wZXJhdG9yIik7Cg==</text>
       </register>
-      <register name="8" type="4">
-        <text encoding="base64">bG9nLmluZm8oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PWpzX2NvdW50X3N0YXJ0Iik7CiAgICAgICAgQ2FsZW5kYXIgY2FsZW5kYXIgPSBDYWxlbmRhci5nZXRJbnN0YW5jZSgpOwogICAgICAgIC8qY2FsZW5kYXIuc2V0KENhbGVuZGFyLllFQVIsMjAxNik7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLk1PTlRILDYpOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5EQVlfT0ZfTU9OVEgsMTUpOyovCiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLkhPVVJfT0ZfREFZLDApOwogICAgICAgIGNhbGVuZGFyLnNldChDYWxlbmRhci5NSU5VVEUsMCk7CiAgICAgICAgY2FsZW5kYXIuc2V0KENhbGVuZGFyLlNFQ09ORCwwKTsKICAgICAgICBEYXRlIGVkID0gY2FsZW5kYXIuZ2V0VGltZSgpOwogICAgICAgIGNhbGVuZGFyLmFkZChDYWxlbmRhci5EQVRFLCAtMSk7CiAgICAgICAgRGF0ZSBzdCA9IGNhbGVuZGFyLmdldFRpbWUoKTsKICAgICAgICBEYXRlIHllc1BvaW50ID0gRGF0ZVV0aWxzLmFkZFNlY29uZHMoZWQsLTEpOwoKICAgICAgICBTdHJpbmcgeWVzdGVyZGF5ID0gVGltZUZvbWF0LmRhdGVUb1N0cihzdCk7CiAgICAgICAgTWFwPFN0cmluZyxMb25nPiBjbGllbnRJT1NvZkpTID0gY2xpZW50SU9Tb2ZKUyhzdCxlZCk7CiAgICAgICAgTWFwPFN0cmluZyxMb25nPiBjbGllbnRBbmRvZkpTID0gY2xpZW50QW5kb2ZKUyhzdCxlZCk7CiAgICAgICAgTWFwPFN0cmluZyxMb25nPiBzZGt5eGR0T2ZKcyA9IHNka3l4ZHRPZkpzKHN0LGVkKTsKICAgICAgICBNYXA8U3RyaW5nLExvbmc+IHNka3pzeXl0T2ZKcyA9IHNka3pzeXl0T2ZKcyhzdCxlZCk7CiAgICAgICAgTWFwPFN0cmluZyxMb25nPiBzZGtjbHpzT2ZTQyA9IHNka2NsenNPZlNDKHN0LGVkKTsKICAgICAgICBNYXA8U3RyaW5nLExvbmc+IHNka3pzeXl0T2ZITEogPSBzZGt6c3l5dE9mSExKKHN0LGVkKTsKICAgICAgICBEQiBkYiA9IE1vbmdvREJVdGlsLmdldE1vbmdvREJVdGlsKCkuZ2V0REJDYWwoKTsKICAgICAgICBEQkNvbGxlY3Rpb24gbnVjb2wgPSBkYi5nZXRDb2xsZWN0aW9uKCJvdGhlcl91c2VyX2NvdW50Iik7CiAgICAgICAgQmFzaWNEQk9iamVjdCBudW9iaiA9IG5ldyBCYXNpY0RCT2JqZWN0KCkKICAgICAgICAgICAgICAgIC5hcHBlbmQoImlvc2FsbCIsY2xpZW50SU9Tb2ZKUy5nZXQoImNsaWVudEFsbCIpKS5hcHBlbmQoImlvc3p1b3JpIixjbGllbnRJT1NvZkpTLmdldCgiY2xpZW50TmV3IikpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJhbmRhbGwiLGNsaWVudEFuZG9mSlMuZ2V0KCJjbGllbnRBbGwiKSkuYXBwZW5kKCJhbmR6dW9yaSIsY2xpZW50QW5kb2ZKUy5nZXQoImNsaWVudE5ldyIpKQogICAgICAgICAgICAgICAgLmFwcGVuZCgic2RrX2pzX3l4ZHRfYWxsIixzZGt5eGR0T2ZKcy5nZXQoInl4ZHRfQWxsIikpLmFwcGVuZCgic2RrX2pzX3l4ZHRfenVvcmkiLHNka3l4ZHRPZkpzLmdldCgieXhkdF9OZXciKSkKICAgICAgICAgICAgICAgIC5hcHBlbmQoInNka19qc196c3l5dF9hbGwiLHNka3pzeXl0T2ZKcy5nZXQoInpzeXl0X0FsbCIpKS5hcHBlbmQoInNka19qc196c3l5dF96dW9yaSIsc2RrenN5eXRPZkpzLmdldCgienN5eXRfTmV3IikpCiAgICAgICAgICAgICAgICAuYXBwZW5kKCJzZGtfc2NfY2x6c19hbGwiLCBzZGtjbHpzT2ZTQy5nZXQoImNsenNfQWxsIikpLmFwcGVuZCgic2RrX3NjX2NsenNfenVvcmkiLHNka2NsenNPZlNDLmdldCgiY2x6c19OZXciKSkKICAgICAgICAgICAgICAgIC5hcHBlbmQoInNka19obGpfenN5eXRfYWxsIixzZGt6c3l5dE9mSExKLmdldCgienN5eXRfQWxsIikpLmFwcGVuZCgic2RrX2hsal96c3l5dF96dW9yaSIsc2RrenN5eXRPZkhMSi5nZXQoInpzeXl0X05ldyIpKQogICAgICAgICAgICAgICAgLmFwcGVuZCgiZGF0ZSIseWVzdGVyZGF5KS5hcHBlbmQoImRhdGVUeXBlIiwiZGF5IikuYXBwZW5kKCJ0aW1lUG9pbnQiLHllc1BvaW50KS5hcHBlbmQoImNyZWF0ZVRpbWUiLG5ldyBEYXRlKCkpOwogICAgICAgIG51Y29sLmluc2VydChudW9iaik7CiAgICAgICAgbG9nLmluZm8oIj09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PWpzX2NvdW50X2VuZCIpOw==</text>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHBhcmVudFN1cHBvcnRPcGVyYXRvciA9IEdsb2JhbC5nZXRDb25maWcoInBhcmVudC5zdXBwb3J0Lm9wZXJhdG9yIik7Cg==</text>
       </register>
-      <register name="9" type="4">
-        <text encoding="base64">IEBWYWx1ZSgiJHtXWFNoYXJlVXJsOn0iKQogICAgcHJpdmF0ZSBTdHJpbmcgV1hTaGFyZVVybDs=</text>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHB1YmxpYyBzdGF0aWMgU3RyaW5nIHBhcmVudFN1cHBvcnRPcGVyYXRvciA9IEdsb2JhbC5nZXRDb25maWcoInBhcmVudC5zdXBwb3J0Lm9wZXJhdG9yIik7Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>w</text>
+        <text>x</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxlbnN1cmVcPg==</last-search>
+      <last-search encoding="base64">XDxyZXNvdXJjZXNcPg==</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxlbnN1cmVcPg==</last-pattern>
+      <last-pattern encoding="base64">XDxyZXNvdXJjZXNcPg==</last-pattern>
       <last-replace>ColorEnum</last-replace>
       <last-substitute>EmumTest</last-substitute>
       <last-dir>1</last-dir>
@@ -341,16 +274,6 @@
     </search>
     <history>
       <history-search>
-        <entry encoding="base64">XDxFbnVtVGVzdFw+</entry>
-        <entry encoding="base64">XDxGXD4=</entry>
-        <entry encoding="base64">XDxhZG1pblw+</entry>
-        <entry encoding="base64">XDxjaGFydDFcPg==</entry>
-        <entry encoding="base64">XDxvYXV0aDJcPg==</entry>
-        <entry encoding="base64">XDxoZWFydFw+</entry>
-        <entry>@</entry>
-        <entry>weChatSubscription</entry>
-        <entry encoding="base64">XDxzcHJpbmdcPg==</entry>
-        <entry encoding="base64">XDxyZXN1bHRKc29uXD4=</entry>
         <entry encoding="base64">XDxnZXRKU09OT2JqZWN0XD4=</entry>
         <entry encoding="base64">XDwpXD4=</entry>
         <entry encoding="base64">XDxndWFyZExpc3RcPg==</entry>
@@ -361,14 +284,26 @@
         <entry encoding="base64">XDxKZG93bkFwcFw+</entry>
         <entry encoding="base64">XDxhb3JkZXJcPg==</entry>
         <entry encoding="base64">XDxlbnN1cmVcPg==</entry>
+        <entry encoding="base64">XDxyZWNoYXJnZUZsb3dcPg==</entry>
+        <entry encoding="base64">XDxjaGVja1VzZXJBZ2VudFw+</entry>
+        <entry encoding="base64">XDxwaG9uZVVpZFw+</entry>
+        <entry encoding="base64">XDxhcHBEYXRlXD4=</entry>
+        <entry encoding="base64">XDxzZXRPbmVMb2NrXD4=</entry>
+        <entry encoding="base64">XDxkYXRhXD4=</entry>
+        <entry encoding="base64">XDx1bmxvY2tUaXRsZVw+</entry>
+        <entry encoding="base64">XDxwdXJsXD4=</entry>
+        <entry encoding="base64">XDxnZXREZXZpY2VMb2NhdGlvblw+</entry>
+        <entry encoding="base64">XDxyZXNvdXJjZXNcPg==</entry>
       </history-search>
       <history-cmd>
         <entry>%s/EmumTest/ColorEnum/g</entry>
         <entry>req</entry>
         <entry>W</entry>
         <entry>g\8</entry>
-        <entry>reg</entry>
         <entry>w</entry>
+        <entry>reg</entry>
+        <entry>set nu</entry>
+        <entry>x</entry>
       </history-cmd>
       <history-expr />
       <history-input />
@@ -442,6 +377,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed CLOSE_BRACKET</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed U</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>

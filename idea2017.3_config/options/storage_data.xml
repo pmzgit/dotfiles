@@ -1,6 +1,14 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Miscellaneous" />
+      <item value="depending upon" />
+      <item value="instantiated" />
+      <item value="propagated" />
+      <item value="Temporal" />
+      <item value="ordinal" />
+      <item value="EAGER" />
+      <item value="specification" />
       <item value="tall" />
       <item value="Gimpy" />
       <item value="coordinate" />
@@ -43,14 +51,6 @@
       <item value="l" />
       <item value="populating" />
       <item value="arbitrary" />
-      <item value="Commodity" />
-      <item value="Ambiguous" />
-      <item value="eligible" />
-      <item value="explicit" />
-      <item value="scenario" />
-      <item value="specialization" />
-      <item value="interpret" />
-      <item value="repositories" />
     </histories>
   </component>
 </application>

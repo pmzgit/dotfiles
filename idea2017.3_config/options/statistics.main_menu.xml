@@ -1,8 +1,29 @@
 <application>
   <component name="MainMenuCollector">
     <counts>
-      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="80" />
-      <entry path="File -&gt; Open..." count="4" />
+      <entry path="Build -&gt; Rebuild Project" count="9" />
+      <entry path="File -&gt; Close Project" count="4" />
+      <entry path="File -&gt; New -&gt; Open URL..." count="1" />
+      <entry path="File -&gt; New -&gt; Project..." count="3" />
+      <entry path="File -&gt; Open Recent -&gt; Close Project" count="1" />
+      <entry path="File -&gt; Open Recent -&gt; Manage Projects..." count="16" />
+      <entry path="File -&gt; Open Recent -&gt; Reopen Project" count="375" />
+      <entry path="File -&gt; Open URL..." count="11" />
+      <entry path="File -&gt; Open..." count="41" />
+      <entry path="File -&gt; Settings..." count="1" />
+      <entry path="Help -&gt; About" count="2" />
+      <entry path="Help -&gt; Keymap Reference" count="1" />
+      <entry path="Help -&gt; Productivity Guide" count="1" />
+      <entry path="Run -&gt; Debug..." count="1" />
+      <entry path="Run -&gt; Edit Configurations..." count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Git" count="1" />
+      <entry path="VCS -&gt; Checkout from Version Control -&gt; Subversion" count="2" />
+      <entry path="VCS -&gt; Refresh File Status" count="1" />
+      <entry path="VCS -&gt; Subversion -&gt; Branch or Tag..." count="1" />
+      <entry path="VCS -&gt; Subversion -&gt; Relocate..." count="7" />
+      <entry path="VCS -&gt; Update Project" count="2" />
+      <entry path="VCS -&gt; VCS Operations Popup..." count="1" />
+      <entry path="View -&gt; Recent Changes" count="1" />
     </counts>
   </component>
 </application>

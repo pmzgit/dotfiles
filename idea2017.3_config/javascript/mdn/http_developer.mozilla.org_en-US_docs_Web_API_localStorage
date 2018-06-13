@@ -1,0 +1,1 @@
+<code>localStorage</code> is analogous to <code><a href="/en-US/docs/Web/API/sessionStorage">sessionStorage</a></code>, with the same same-origin rules applied, but it is persistent across sessions. <code>localStorage</code> was introduced in Firefox 3.5.

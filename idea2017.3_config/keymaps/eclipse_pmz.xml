@@ -1,4 +1,9 @@
 <keymap version="1" name="eclipse_pmz" parent="Eclipse">
+  <action id="Console.TableResult.SetNull" />
+  <action id="IntroduceVariable">
+    <keyboard-shortcut first-keystroke="ctrl alt v" />
+    <keyboard-shortcut first-keystroke="ctrl alt n" />
+  </action>
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>

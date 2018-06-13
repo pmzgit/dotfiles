@@ -12,6 +12,8 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverParentProtect/01_Development/05_Code/01_Source_Code/trunk/ShanDong/EverParentProtect/" />
+        <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverParentProtect/01_Development/05_Code/01_Source_Code/trunk/ShanDong/EverParentService" />
         <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverCallManager/01-DevBase/050-Code/010-Source-Code" />
         <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/dmp/01-DevBase/050-Code/010-Source-Code" />
         <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverCallManager/01-DevBase/" />
@@ -20,6 +22,8 @@
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverParentProtect/01_Development/05_Code/01_Source_Code/trunk/ShanDong/EverParentProtect/" />
+        <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverParentProtect/01_Development/05_Code/01_Source_Code/trunk/ShanDong/EverParentService" />
         <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverCallManager/01-DevBase/050-Code/010-Source-Code" />
         <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/dmp/01-DevBase/050-Code/010-Source-Code" />
         <option value="http://192.168.200.125/svn/product/Z-ConfigBase/ProjectWorkSpace/EverCallManager/01-DevBase/" />

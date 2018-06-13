@@ -15,9 +15,8 @@
           </MavenGeneralSettings>
         </option>
       </component>
-      <component name="ProjectRootManager" version="2" default="true" />
       <component name="PropertiesComponent">
-        <property name="settings.editor.selected.configurable" value="MavenSettings" />
+        <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.AdvancedConfigurable" />
         <property name="last_opened_file_path" value="D:/code" />
         <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
       </component>
@@ -116,7 +115,7 @@
         <states>
           <state key="ProjectJDKs.UI">
             <settings>
-              <last-edited>1.7</last-edited>
+              <last-edited>1.8</last-edited>
               <splitter-proportions>
                 <option name="proportions">
                   <list>

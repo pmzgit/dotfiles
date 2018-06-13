@@ -2,16 +2,24 @@
   <component name="RecentProjectsManager">
     <option name="recentPaths">
       <list>
-        <option value="D:/code/platform" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/everpay" />
-        <option value="D:/code/evervue" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription" />
+        <option value="D:/code/protect/EverChildNet" />
         <option value="D:/code/wxbind" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0" />
-        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian" />
+        <option value="D:/code/everpay" />
+        <option value="D:/code/parent" />
         <option value="D:/code/zheng" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard" />
+        <option value="D:/code/t-io" />
+        <option value="D:/code/pig" />
+        <option value="D:/code/springboot" />
+        <option value="D:/code/OpenMDMServer" />
+        <option value="D:/code/springboot/demo1" />
+        <option value="D:/code/renren-security" />
+        <option value="D:/code/eversec-framework" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0" />
+        <option value="D:/code/EverParentService" />
+        <option value="D:/code/evervue" />
+        <option value="D:/code/platform" />
+        <option value="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0" />
         <option value="D:/code/jfinal-weixin" />
         <option value="D:/code/88ybg" />
         <option value="D:/code/HarleyCorp" />
@@ -20,10 +28,8 @@
         <option value="D:/code/IJPay" />
         <option value="$USER_HOME$/Desktop/work/充值/银联/手机网页支付产品技术开发包V1.1.7/Java Version SDK (通用版)/ACPSample_B2C" />
         <option value="D:/code/IJPay-Demo" />
-        <option value="D:/code/eversec-framework" />
         <option value="D:/code/esp-demo" />
         <option value="D:/code/ebp-demo" />
-        <option value="D:/code/parent" />
         <option value="D:/code/test" />
         <option value="D:/code/bm_weixin_portal" />
         <option value="D:/code/easypoi" />
@@ -42,17 +48,15 @@
         <option value="D:/me/server-sdk-java-master" />
         <option value="D:/me/vdBase-UI" />
         <option value="D:/me/FHM Maven Webapp" />
-        <option value="D:/me/SpringMVC-Mybatis-Shiro-redis-0.2" />
-        <option value="D:/me/jfinal-weixin" />
-        <option value="D:/me/renren-security" />
       </list>
     </option>
     <option name="openPaths">
       <list>
-        <option value="D:/code/platform" />
+        <option value="D:/code/wxbind" />
+        <option value="D:/code/protect/EverChildNet" />
       </list>
     </option>
-    <option name="lastPath" value="D:/code/platform" />
+    <option name="lastPath" value="D:/code/protect/EverChildNet" />
     <option name="pid" value="" />
     <option name="additionalInfo">
       <map>
@@ -70,22 +74,22 @@
         <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/CMCC5.0">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.3942.27" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514258040834" />
-              <option name="buildTimestamp" value="1512983494276" />
+              <option name="projectOpenTimestamp" value="1523353137695" />
+              <option name="buildTimestamp" value="1520275876693" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/CommGuard">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514546872633" />
-              <option name="buildTimestamp" value="1514220699052" />
+              <option name="projectOpenTimestamp" value="1527735686538" />
+              <option name="buildTimestamp" value="1520275912182" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -114,11 +118,11 @@
         <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/EverWeChatSubscription">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514541887171" />
-              <option name="buildTimestamp" value="1514220699052" />
+              <option name="projectOpenTimestamp" value="1527215947433" />
+              <option name="buildTimestamp" value="1520275870976" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -136,22 +140,22 @@
         <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/MobileCalculate2.0">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4301.25" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514461652754" />
-              <option name="buildTimestamp" value="1514220692514" />
+              <option name="projectOpenTimestamp" value="1517046879326" />
+              <option name="buildTimestamp" value="1516033024002" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/SunGuardian">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.3942.27" />
+              <option name="build" value="IU-173.4301.25" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514184639733" />
-              <option name="buildTimestamp" value="1512983478409" />
+              <option name="projectOpenTimestamp" value="1516708054866" />
+              <option name="buildTimestamp" value="1516033033388" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -180,11 +184,11 @@
         <entry key="D:/code/01-DevBase/050-Code/010-Source-Code/everpay">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514879008510" />
-              <option name="buildTimestamp" value="1514220688420" />
+              <option name="projectOpenTimestamp" value="1526293709393" />
+              <option name="buildTimestamp" value="1520275866817" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -243,6 +247,61 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/code/EverChildNet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527766972516" />
+              <option name="buildTimestamp" value="1520275912182" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/EverChildNetPlay">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4127.27" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1515484881756" />
+              <option name="buildTimestamp" value="1514220671378" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/EverParentManage">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1518162253855" />
+              <option name="buildTimestamp" value="1517264920448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/EverParentProtect">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527769280503" />
+              <option name="buildTimestamp" value="1520275912182" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/EverParentService">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1521801792409" />
+              <option name="buildTimestamp" value="1520275889028" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/code/EverPay">
           <value>
             <RecentProjectMetaInfo>
@@ -287,6 +346,17 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/code/OpenMDMServer">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525774543402" />
+              <option name="buildTimestamp" value="1520275905392" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/code/alipay.trade.wap.pay-java-utf-8">
           <value>
             <RecentProjectMetaInfo>
@@ -306,6 +376,28 @@
               <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
               <option name="projectOpenTimestamp" value="1505392171457" />
               <option name="buildTimestamp" value="1495124526917" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/branches/shandong_v1.0/EverParentProtect">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525245377006" />
+              <option name="buildTimestamp" value="1520275888317" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/branches/shandong_v1.0/EverParentService">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525248951532" />
+              <option name="buildTimestamp" value="1520275871688" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -345,33 +437,33 @@
         <entry key="D:/code/everpay">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4155.36" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1506482163283" />
-              <option name="buildTimestamp" value="1505156592033" />
+              <option name="projectOpenTimestamp" value="1528807890561" />
+              <option name="buildTimestamp" value="1520275896655" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:/code/eversec-framework">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4343.14" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1507627748010" />
-              <option name="buildTimestamp" value="1506404251385" />
+              <option name="projectOpenTimestamp" value="1524447396155" />
+              <option name="buildTimestamp" value="1520275896075" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:/code/evervue">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4548.28" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514879003883" />
-              <option name="buildTimestamp" value="1514220688420" />
+              <option name="projectOpenTimestamp" value="1518160572634" />
+              <option name="buildTimestamp" value="1517264920448" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -408,25 +500,69 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/code/mdm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4548.28" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1520339275615" />
+              <option name="buildTimestamp" value="1517264905371" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/code/parent">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-172.4155.36" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1506426646976" />
-              <option name="buildTimestamp" value="1505156599502" />
+              <option name="projectOpenTimestamp" value="1528279510253" />
+              <option name="buildTimestamp" value="1520275880070" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/pig">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526623527505" />
+              <option name="buildTimestamp" value="1520275878263" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:/code/platform">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4301.25" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514879012237" />
-              <option name="buildTimestamp" value="1514220688420" />
+              <option name="projectOpenTimestamp" value="1517133111526" />
+              <option name="buildTimestamp" value="1516033058505" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/protect/EverChildNet">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1528861658338" />
+              <option name="buildTimestamp" value="1520275903342" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/renren-security">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1524620736608" />
+              <option name="buildTimestamp" value="1520275907216" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -441,6 +577,28 @@
             </RecentProjectMetaInfo>
           </value>
         </entry>
+        <entry key="D:/code/springboot">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1526439295089" />
+              <option name="buildTimestamp" value="1520275884571" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/springboot/demo1">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1525088008526" />
+              <option name="buildTimestamp" value="1520275904125" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
         <entry key="D:/code/system-app-v1.0">
           <value>
             <RecentProjectMetaInfo>
@@ -449,6 +607,17 @@
               <option name="binFolder" value="D:/install/IntelliJ IDEA 2016.3.6/bin" />
               <option name="projectOpenTimestamp" value="1505283150421" />
               <option name="buildTimestamp" value="1495124529202" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/code/t-io">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1527231262835" />
+              <option name="buildTimestamp" value="1520275870976" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
@@ -466,22 +635,33 @@
         <entry key="D:/code/wxbind">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.4127.27" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514540811327" />
-              <option name="buildTimestamp" value="1514220699052" />
+              <option name="projectOpenTimestamp" value="1528861658338" />
+              <option name="buildTimestamp" value="1520275903342" />
             </RecentProjectMetaInfo>
           </value>
         </entry>
         <entry key="D:/code/zheng">
           <value>
             <RecentProjectMetaInfo>
-              <option name="build" value="IU-173.3942.27" />
+              <option name="build" value="IU-173.4674.33" />
               <option name="productionCode" value="IU" />
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
-              <option name="projectOpenTimestamp" value="1514170290853" />
-              <option name="buildTimestamp" value="1512983478409" />
+              <option name="projectOpenTimestamp" value="1528256612740" />
+              <option name="buildTimestamp" value="1520275880070" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="D:/mdm">
+          <value>
+            <RecentProjectMetaInfo>
+              <option name="build" value="IU-173.4674.33" />
+              <option name="productionCode" value="IU" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="projectOpenTimestamp" value="1523503206937" />
+              <option name="buildTimestamp" value="1520275890768" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

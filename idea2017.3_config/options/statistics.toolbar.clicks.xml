@@ -1,53 +1,86 @@
 <application>
   <component name="ToolbarClicksCollector">
     <counts>
-      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="8" />
-      <entry action="CommittedChanges.Refresh@CommittedChangesTree" count="11" />
-      <entry action="Debug@MainToolbar" count="228" />
-      <entry action="IncomingChanges.Refresh@CommittedChangesTree" count="30" />
+      <entry action="$ShowTranslationDialogAction@MainToolbar" count="6" />
+      <entry action="AliP3CInspectionAction@MainToolbar" count="2" />
+      <entry action="Back@MainToolbar" count="7" />
+      <entry action="ChangesView.DeleteUnversioned.From.Dialog@SPECIFIC_FILES_DIALOG" count="2" />
+      <entry action="ChangesView.Refresh@ChangesViewToolbar" count="35" />
+      <entry action="CommittedChanges.Refresh@CommittedChangesTree" count="28" />
+      <entry action="DatabaseView.AddActionGroupPopup@ProjectViewToolbar" count="3" />
+      <entry action="DatabaseView.PropertiesAction@ProjectViewToolbar" count="1" />
+      <entry action="Debug@MainToolbar" count="577" />
+      <entry action="FileChooser.NewFolder@FileChooserDialog" count="2" />
+      <entry action="FileChooser.Refresh@FileChooserDialog" count="1" />
+      <entry action="IncomingChanges.Refresh@CommittedChangesTree" count="177" />
+      <entry action="JRebel Debug@MainToolbar" count="225" />
+      <entry action="JRebel Executor@MainToolbar" count="5" />
       <entry action="JRebel_Debug@MainToolbar" count="17" />
       <entry action="JRebel_Executor@MainToolbar" count="1" />
+      <entry action="Maven.AddManagedFiles@Maven Navigator Toolbar" count="1" />
       <entry action="Maven.ExecuteGoal@Maven_Navigator_Toolbar" count="2" />
+      <entry action="Maven.Reimport@Maven Navigator Toolbar" count="15" />
       <entry action="Maven.ShowSettings@Maven_Navigator_Toolbar" count="7" />
       <entry action="MemoryView.SettingsPopupActionGroup@unknown" count="2" />
       <entry action="OpenFile@MainToolbar" count="1" />
-      <entry action="Rerun@DebuggerToolbar" count="284" />
-      <entry action="Rerun@RunnerToolbar" count="44" />
-      <entry action="Resume@DebuggerToolbar" count="2" />
-      <entry action="Run@MainToolbar" count="5" />
-      <entry action="Runner.RestoreLayout@DebuggerToolbar" count="1" />
-      <entry action="ShowProjectStructureSettings@MainToolbar" count="17" />
-      <entry action="ShowSettings@MainToolbar" count="31" />
+      <entry action="Pause@DebuggerToolbar" count="2" />
+      <entry action="Print@RunnerToolbar" count="2" />
+      <entry action="Rerun@DebuggerToolbar" count="407" />
+      <entry action="Rerun@RunnerToolbar" count="275" />
+      <entry action="Resume@DebuggerToolbar" count="22" />
+      <entry action="Run@MainToolbar" count="12" />
+      <entry action="Runner.RestoreLayout@DebuggerToolbar" count="9" />
+      <entry action="ShowProjectStructureSettings@MainToolbar" count="87" />
+      <entry action="ShowSettings@MainToolbar" count="91" />
       <entry action="ShowTranslationDialogAction@MainToolbar" count="1" />
       <entry action="StepOut@DebuggerToolbar" count="1" />
-      <entry action="Stop@DebuggerToolbar" count="16" />
-      <entry action="Stop@MainToolbar" count="139" />
-      <entry action="Stop@RunnerToolbar" count="6" />
-      <entry action="UsageView.ShowRecentFindUsages@UsageViewToolbar" count="4" />
+      <entry action="Stop@DebuggerToolbar" count="243" />
+      <entry action="Stop@MainToolbar" count="894" />
+      <entry action="Stop@RunnerToolbar" count="9" />
+      <entry action="ToggleProjectInspectionAction@MainToolbar" count="3" />
+      <entry action="UML.ShowChanges@ChangesViewToolbar" count="1" />
+      <entry action="UsageView.ShowRecentFindUsages@UsageViewToolbar" count="8" />
       <entry action="Vcs.Log.QuickTextFilterSettings@Vcs.Log.Toolbar" count="2" />
-      <entry action="ViewBreakpoints@DebuggerToolbar" count="2" />
+      <entry action="Vcs.Log.Refresh@Vcs.Log.Toolbar" count="1" />
+      <entry action="ViewBreakpoints@DebuggerToolbar" count="4" />
       <entry action="XDebugger.MuteBreakpoints@DebuggerToolbar" count="4" />
-      <entry action="XDebugger.SwitchWatchesInVariables@DebuggerToolbar" count="1" />
+      <entry action="XDebugger.NewWatch@DebuggerToolbar" count="3" />
+      <entry action="XDebugger.RemoveWatch@DebuggerToolbar" count="2" />
+      <entry action="XDebugger.SwitchWatchesInVariables@DebuggerToolbar" count="3" />
       <entry action="com.intellij.application.options.schemes.AbstractSchemesPanel$ShowSchemesActionsListAction@NavBarToolbar" count="1" />
-      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction@JavadocToolbar" count="1" />
-      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="2" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="207" />
-      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="1" />
-      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="10" />
-      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="5" />
-      <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="5" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$EditDocumentationSourceAction@JavadocToolbar" count="2" />
+      <entry action="com.intellij.codeInsight.documentation.DocumentationComponent$MyShowSettingsAction@JavadocInplaceSettings" count="3" />
+      <entry action="com.intellij.diff.impl.DiffRequestProcessor$MyNextDifferenceAction@DiffToolbar" count="13" />
+      <entry action="com.intellij.diff.merge.MergeRequestProcessor$MyNextDifferenceAction@DiffToolbar" count="4" />
+      <entry action="com.intellij.diff.merge.TextMergeViewer$MyThreesideViewer$MyShowNextChangeMarkerAction@toolbar" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$8@RunnerToolbar" count="3" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$8@TestRunnerResults" count="1" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@RunnerToolbar" count="869" />
+      <entry action="com.intellij.execution.impl.ConsoleViewImpl$ClearAllAction@unknown" count="58" />
+      <entry action="com.intellij.execution.ui.layout.actions.RestoreViewAction@DebuggerToolbar" count="23" />
+      <entry action="com.intellij.find.SearchTextArea$ClearAction@unknown" count="22" />
+      <entry action="com.intellij.find.SearchTextArea$NewLineAction@unknown" count="1" />
+      <entry action="com.intellij.find.SearchTextArea$ShowHistoryAction@unknown" count="49" />
       <entry action="com.intellij.find.editorHeaderActions.FindAllAction@EditorToolbar" count="1" />
-      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="193" />
-      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="68" />
-      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="62" />
-      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@RunnerToolbar" count="2" />
+      <entry action="com.intellij.find.editorHeaderActions.NextOccurrenceAction@EditorToolbar" count="555" />
+      <entry action="com.intellij.find.editorHeaderActions.PrevOccurrenceAction@EditorToolbar" count="309" />
+      <entry action="com.intellij.find.impl.FindPopupPanel$MySelectScopeToggleAction@EditorToolbar" count="300" />
+      <entry action="com.intellij.ide.actions.ContextHelpAction@CommittedChangesTree" count="1" />
+      <entry action="com.intellij.ide.actions.ExpandAllToolbarAction@ChangesViewToolbar" count="2" />
+      <entry action="com.intellij.ide.actions.NextOccurenceToolbarAction@RunnerToolbar" count="4" />
       <entry action="com.intellij.ide.browsers.actions.BaseWebBrowserAction@ContextToolbar" count="2" />
-      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="2" />
-      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@RunnerToolbar" count="38" />
-      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="2" />
-      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="10" />
-      <entry action="javaee.UpdateRunningApplication@DebuggerToolbar" count="13" />
-      <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction@RepositoryBrowser.Toolbar" count="1" />
+      <entry action="com.intellij.ide.util.gotoByName.ChooseByNameFilter$FilterAction@gotfile.filter" count="2" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DebuggerToolbar" count="3" />
+      <entry action="com.intellij.openapi.actionSystem.DefaultActionGroup@DiffToolbar" count="2" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@RunnerToolbar" count="368" />
+      <entry action="com.intellij.openapi.editor.actions.ScrollToTheEndToolbarAction@unknown" count="10" />
+      <entry action="com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryRootsComponent$1@ToolbarDecorator" count="1" />
+      <entry action="com.intellij.ui.AnActionButton$AnActionButtonWrapper@ToolbarDecorator" count="49" />
+      <entry action="com.intellij.ui.CommonActionsPanel$MyActionButton@ToolbarDecorator" count="53" />
+      <entry action="com.intellij.usages.impl.UsageFilteringRuleProviderImpl$ShowReadAccessUsagesAction@UsageViewToolbar" count="2" />
+      <entry action="com.intellij.usages.impl.UsageFilteringRuleProviderImpl$ShowWriteAccessUsagesAction@UsageViewToolbar" count="2" />
+      <entry action="javaee.UpdateRunningApplication@DebuggerToolbar" count="270" />
+      <entry action="org.jetbrains.idea.svn.dialogs.RepositoryBrowserDialog$AddLocationAction@RepositoryBrowser.Toolbar" count="3" />
     </counts>
   </component>
 </application>
