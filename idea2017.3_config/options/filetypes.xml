@@ -1,8 +1,0 @@
-<application>
-  <component name="FileTypeManager" version="17">
-    <extensionMap>
-      <mapping ext="map" type="JSON" />
-      <mapping ext="mobileconfig" type="PLAIN_TEXT" />
-    </extensionMap>
-  </component>
-</application>

@@ -1,1 +1,0 @@
-The <code><strong>URLUtilsReadOnly</strong></code><strong><code>.href</code></strong> read-only property returns a <a href="/en-US/docs/Web/API/DOMString" title="DOMString is a UTF-16 String. As JavaScript already uses such strings, DOMString is mapped directly to a String."><code>DOMString</code></a> containing the whole URL.
